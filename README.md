@@ -1,4 +1,4 @@
-# :teapot: **Awesome 3D Learning** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# :ice_cube: **Awesome 3D Learning** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
@@ -20,27 +20,27 @@
 
 > ### Contributions are very welcome! :hugs:
 
-## :teapot: Computer Graphics
+## :bunny: Computer Graphics
 
 ### :man_technologist: [Shader School](https://github.com/stackgl/shader-school)
 
 ### :man_technologist: [OpenGL Tutorials](http://www.opengl-tutorial.org/)
 
-### :man_technologist: [NV Scene Seminars](https://www.youtube.com/c/NVScene/playlists)
-
 ### :tv: [Videos by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
+
+### :man_technologist: [NV Scene Seminars](https://www.youtube.com/c/NVScene/playlists)
 
 ### :thought_balloon: [Blogposts by Ronja](https://www.ronja-tutorials.com/)
 
-### :tv: [Videos by Nelson Max](https://www.youtube.com/playlist?list=PL_w_qWAQZtAYd0Kxmq17YXwqXkO1MVrqi)
-
-### :tv: [Videos by Keenan Crane](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
-
 ### :film_projector: [Slides by Ron Fedkiw](https://web.stanford.edu/class/cs148/lectures.html)
+
+### :tv: [Videos by Nelson Max](https://www.youtube.com/playlist?list=PL_w_qWAQZtAYd0Kxmq17YXwqXkO1MVrqi)
 
 ### :film_projector: [Slides by Nancy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
 
 ### :thought_balloon: [Blogposts by Etay Meiri](https://ogldev.org/)
+
+### :tv: [Videos by Keenan Crane](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 
 ### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 
@@ -50,9 +50,9 @@
 
 ### :thought_balloon: [Blogposts by Omar Shehata](https://gamedevelopment.tutsplus.com/series/a-beginners-guide-to-coding-graphics-shaders--cms-834)
 
-### :man_technologist: [Graphics Gems by Eric Haines](https://github.com/erich666/GraphicsGems)
-
 ### :man_technologist: [DirectX Raytracing Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
+
+### :man_technologist: [Graphics Gems by Eric Haines](https://github.com/erich666/GraphicsGems)
 
 ### :card_file_box: [Graphics Programming Resources](https://graphics-programming.org/resources/)
 
@@ -60,21 +60,21 @@
 
 ### :man_technologist: [OpenGL Rendering by Dmitry Sokolov](https://github.com/ssloy/tinyrenderer/wiki)
 
-### :man_technologist: [Raymarching Workshop by Electric Square](https://github.com/electricsquare/raymarching-workshop/blob/master/readme.md)
-
 ### :man_technologist: [Introduction to DirectX Raytracing Course](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing)
 
-### :tv: [Videos by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
+### :man_technologist: [Raymarching Workshop by Electric Square](https://github.com/electricsquare/raymarching-workshop/blob/master/readme.md)
 
 ### :card_file_box: [Collection of books on Real-time Rendering](http://www.realtimerendering.com/books.html)
 
 ### :book: [Ray Tracing Gems by Eric Haines and others](http://www.realtimerendering.com/raytracinggems/)
 
+### :tv: [Videos by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
+
 ### :book: [Ray Tracing in One Weekend by Peter Shirley](https://raytracing.github.io/)
 
-### :book: [Learn OpenGL — Graphics Programming by Joey de Vries](https://learnopengl.com/)
-
 ### :card_file_box: [Graphics Programming Article Database by Jendrik Illner](https://www.jendrikillner.com/article_database/)
+
+### :book: [Learn OpenGL — Graphics Programming by Joey de Vries](https://learnopengl.com/)
 
 ### :book: [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
 
@@ -94,11 +94,11 @@
 
 ## :globe_with_meridians: Geometry Processing
 
+### :man_teacher: [Course by Alec Jacobson](https://github.com/alecjacobson/geometry-processing)
+
 ### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
 
 ### :tv: [Videos by Zhongshi Jiang](https://www.youtube.com/playlist?list=PL6Bl-NTBamMIf9jEmPNYgDyUs0zDTdZe_)
-
-### :man_teacher: [Course by Alec Jacobson](https://github.com/alecjacobson/geometry-processing)
 
 ### :film_projector: [Slides by Mario Botsch and others](http://www.pmp-book.org/)
 
