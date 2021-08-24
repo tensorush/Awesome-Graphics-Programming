@@ -20,7 +20,7 @@
 
 > ### Contributions are very welcome! :hugs:
 
-## :bunny: Computer Graphics
+## :dragon: Computer Graphics
 
 ### :man_technologist: [Shader School](https://github.com/stackgl/shader-school)
 
