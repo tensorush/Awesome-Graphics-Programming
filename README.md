@@ -7,6 +7,7 @@
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
+[![License][license-shield]][license-url]
 
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2021/gifs/2021_15_splittingtriangles.gif">
