@@ -28,17 +28,17 @@
 
 ### :man_technologist: [OpenGL Tutorials](http://www.opengl-tutorial.org/)
 
-### :man_technologist: [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming)
-
 ### :tv: [Videos by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
 
-### :man_technologist: [NV Scene Seminars](https://www.youtube.com/c/NVScene/playlists)
+### :man_technologist: [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming)
 
-### :man_technologist: [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming)
+### :man_technologist: [NV Scene Seminars](https://www.youtube.com/c/NVScene/playlists)
 
 ### :thought_balloon: [Blogposts by Ronja](https://www.ronja-tutorials.com/)
 
 ### :film_projector: [Slides by Ron Fedkiw](https://web.stanford.edu/class/cs148/lectures.html)
+
+### :man_technologist: [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming)
 
 ### :tv: [Videos by Nelson Max](https://www.youtube.com/playlist?list=PL_w_qWAQZtAYd0Kxmq17YXwqXkO1MVrqi)
 
@@ -50,25 +50,25 @@
 
 ### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 
-### :film_projector: [Slides by Daniel Cohen-Or](https://danielcohenor.com/courses/)
-
 ### :thought_balloon: [Blogposts by Inigo Quilez](https://iquilezles.org/www/index.htm)
+
+### :film_projector: [Slides by Daniel Cohen-Or](https://danielcohenor.com/courses/)
 
 ### :thought_balloon: [Blogposts by David Lettier](https://lettier.github.io/3d-game-shaders-for-beginners/index.html)
 
-### :thought_balloon: [Blogposts by Omar Shehata](https://gamedevelopment.tutsplus.com/series/a-beginners-guide-to-coding-graphics-shaders--cms-834)
-
 ### :thought_balloon: [Blogposts by Scratchapixel](https://www.scratchapixel.com/)
+
+### :thought_balloon: [Blogposts by Omar Shehata](https://gamedevelopment.tutsplus.com/series/a-beginners-guide-to-coding-graphics-shaders--cms-834)
 
 ### :man_technologist: [DirectX Raytracing Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
 
 ### :man_technologist: [Graphics Gems by Eric Haines](https://github.com/erich666/GraphicsGems)
 
+### :man_technologist: [Vulkan Tutorials by Dustin Land](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
+
 ### :card_file_box: [Graphics Programming Resources](https://graphics-programming.org/resources/)
 
 ### :man_technologist: [Handmade Hero by Casey Muratori](https://handmadehero.org/)
-
-### :man_technologist: [Vulkan Tutorials by Dustin Land](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
 
 ### :man_technologist: [OpenGL Tutorials by Anton Gerdelan](https://antongerdelan.net/opengl/)
 
@@ -80,8 +80,6 @@
 
 ### :man_technologist: [Raymarching Workshop by Electric Square](https://github.com/electricsquare/raymarching-workshop/blob/master/readme.md)
 
-### :man_technologist: [Fragment Shaders Workshop by Hugh Kennedy](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
-
 ### :card_file_box: [Collection of books on Real-time Rendering](http://www.realtimerendering.com/books.html)
 
 ### :book: [Ray Tracing Gems by Eric Haines and others](http://www.realtimerendering.com/raytracinggems/)
@@ -92,15 +90,17 @@
 
 ### :book: [Ray Tracing in One Weekend by Peter Shirley](https://raytracing.github.io/)
 
-### :book: [GPU Gems by NVIDIA Developers Team and others](https://developer.nvidia.com/gpugems/gpugems/contributors)
+### :man_technologist: [Fragment Shaders Workshop by Hugh Kennedy](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
 
 ### :man_technologist: [Vulkan in 30 Minutes Tutorial by Baldur Karlsson](https://renderdoc.org/vulkan-in-30-minutes.html)
 
+### :book: [GPU Gems by NVIDIA Developers Team and others](https://developer.nvidia.com/gpugems/gpugems/contributors)
+
 ### :man_technologist: [WebGL and Three.js Tutorials by GFX Fundamentals](https://gfxfundamentals.org/)
 
-### :book: [Graphics Programming Black Book by Michael Abrash](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
-
 ### :book: [Physically Based Rendering by Matt Pharr and others](https://www.pbr-book.org/)
+
+### :book: [Graphics Programming Black Book by Michael Abrash](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
 
 ### :card_file_box: [Graphics Programming Article Database by Jendrik Illner](https://www.jendrikillner.com/article_database/)
 
