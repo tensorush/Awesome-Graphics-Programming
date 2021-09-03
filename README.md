@@ -27,6 +27,8 @@
 
 ### :man_technologist: [Graphics Codex](https://graphicscodex.com/)
 
+### :film_projector: [Stanford Courses](https://graphics.stanford.edu/courses/)
+
 ### :man_technologist: [OpenGL Tutorials](http://www.opengl-tutorial.org/)
 
 ### :tv: [Videos by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
@@ -71,6 +73,8 @@
 
 ### :man_technologist: [Handmade Hero by Casey Muratori](https://handmadehero.org/)
 
+### :man_technologist: [Vulkan Cookbook by Pawel Lapinski](https://github.com/PacktPublishing/Vulkan-Cookbook)
+
 ### :man_technologist: [OpenGL Tutorials by Anton Gerdelan](https://antongerdelan.net/opengl/)
 
 ### :man_technologist: [OpenGL Rendering by Dmitry Sokolov](https://github.com/ssloy/tinyrenderer/wiki)
@@ -112,6 +116,8 @@
 ### :man_technologist: [3D Game Engine Programming Tutorials by Jeremiah van Oosten](https://www.3dgep.com/)
 
 ## :eye: Computer Vision
+
+### :tv: [Videos by Shree Nayar](https://fpcv.cs.columbia.edu/)
 
 ### :tv: [Videos by Niloy Mitra](https://www.youtube.com/playlist?list=PLOp-ngXvomHDsEfQAP25HPoZpci9fW2dI)
 
