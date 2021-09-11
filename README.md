@@ -33,9 +33,9 @@
 
 ### :tv: [Videos by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
 
-### :man_technologist: [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming)
-
 ### :man_teacher: [Princeton Courses](https://gfx.cs.princeton.edu/gfx-classes.php)
+
+### :man_technologist: [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming)
 
 ### :man_technologist: [NV Scene Seminars](https://www.youtube.com/c/NVScene/playlists)
 
