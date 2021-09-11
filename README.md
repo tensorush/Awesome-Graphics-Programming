@@ -35,6 +35,8 @@
 
 ### :man_technologist: [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming)
 
+### :man_teacher: [Princeton Courses](https://gfx.cs.princeton.edu/gfx-classes.php)
+
 ### :man_technologist: [NV Scene Seminars](https://www.youtube.com/c/NVScene/playlists)
 
 ### :thought_balloon: [Blogposts by Ronja](https://www.ronja-tutorials.com/)
