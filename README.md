@@ -115,11 +115,17 @@
 
 ### :man_technologist: [3D Game Engine Programming Tutorials by Jeremiah van Oosten](https://www.3dgep.com/)
 
+### :book: [Physically Based Rendering in Filament by Romain Guy and Mathias Agopian](https://google.github.io/filament/Filament.html)
+
 ## :eye: Computer Vision
+
+### :man_teacher: [Princeton Courses](http://3dvision.princeton.edu/courses.html)
 
 ### :tv: [Videos by Shree Nayar](https://fpcv.cs.columbia.edu/)
 
 ### :tv: [Videos by Niloy Mitra](https://www.youtube.com/playlist?list=PLOp-ngXvomHDsEfQAP25HPoZpci9fW2dI)
+
+### :film_projector: [Slides by Guido Gerig](http://www.sci.utah.edu/~gerig/CS6320-S2015/CS6320_3D_Computer_Vision.html)
 
 ### :film_projector: [Slides by Kenji Hata and Silvio Savarese](https://web.stanford.edu/class/cs231a/course_notes.html)
 
@@ -138,6 +144,8 @@
 ### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
 
 ### :tv: [Videos by Zhongshi Jiang](https://www.youtube.com/playlist?list=PL6Bl-NTBamMIf9jEmPNYgDyUs0zDTdZe_)
+
+### :film_projector: [Slides by various authors](https://mirelab6.wixsite.com/dgpslides)
 
 ### :film_projector: [Slides by Mario Botsch and others](http://www.pmp-book.org/)
 
