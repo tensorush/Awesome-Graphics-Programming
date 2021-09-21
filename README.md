@@ -65,9 +65,9 @@
 
 ### :thought_balloon: [Blogposts by Omar Shehata](https://gamedevelopment.tutsplus.com/series/a-beginners-guide-to-coding-graphics-shaders--cms-834)
 
-### :film_projector: [Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php)
-
 ### :man_technologist: [DirectX Raytracing Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
+
+### :film_projector: [Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php)
 
 ### :man_technologist: [Graphics Gems by Eric Haines](https://github.com/erich666/GraphicsGems)
 
