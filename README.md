@@ -83,6 +83,8 @@
 
 ### :man_technologist: [OpenGL Rendering by Dmitry Sokolov](https://github.com/ssloy/tinyrenderer/wiki)
 
+### :man_technologist: [Rendering Course by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
+
 ### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
 
 ### :man_technologist: [Introduction to DirectX Raytracing Course](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing)
