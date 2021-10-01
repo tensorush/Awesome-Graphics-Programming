@@ -21,16 +21,6 @@
 
 > ### Contributions are very welcome! :hugs:
 
-## Contents
-
-- [Computer-Graphics](#computer-graphics)
-
-- [Computer-Vision](#computer-vision)
-
-- [Geometry-Processing](#geometry-processing)
-
-- [Geometric-Deep-Learning](#geometric-deep-learning)
-
 ## :dragon: Computer Graphics
 
 ### :man_technologist: [Shader School](https://github.com/stackgl/shader-school)
@@ -53,9 +43,9 @@
 
 ### :film_projector: [Slides by Ron Fedkiw](https://web.stanford.edu/class/cs148/lectures.html)
 
-### :man_technologist: [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming)
-
 ### :man_technologist: [Vulkan API Examples](https://github.com/SaschaWillems/Vulkan)
+
+### :man_technologist: [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming)
 
 ### :tv: [Videos by Nelson Max](https://www.youtube.com/playlist?list=PL_w_qWAQZtAYd0Kxmq17YXwqXkO1MVrqi)
 
@@ -93,9 +83,9 @@
 
 ### :man_technologist: [OpenGL Tutorials by Anton Gerdelan](https://antongerdelan.net/opengl/)
 
-### :man_technologist: [OpenGL Rendering by Dmitry Sokolov](https://github.com/ssloy/tinyrenderer/wiki)
-
 ### :man_technologist: [Rendering Course by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
+
+### :man_technologist: [OpenGL Rendering by Dmitry Sokolov](https://github.com/ssloy/tinyrenderer/wiki)
 
 ### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
 
@@ -117,25 +107,23 @@
 
 ### :film_projector: [Rendering Algorithms Course by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
 
-### :film_projector: [Interactive Computer Graphics Course by Stanford](https://web.stanford.edu/class/cs248/lectures.html)
-
-### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
-
 ### :man_technologist: [Vulkan in 30 Minutes Tutorial by Baldur Karlsson](https://renderdoc.org/vulkan-in-30-minutes.html)
+
+### :film_projector: [Interactive Computer Graphics Course by Stanford](https://web.stanford.edu/class/cs248/lectures.html)
 
 ### :book: [GPU Gems by NVIDIA Developers Team and others](https://developer.nvidia.com/gpugems/gpugems/contributors)
 
 ### :man_technologist: [WebGL and Three.js Tutorials by GFX Fundamentals](https://gfxfundamentals.org/)
 
+### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
+
+### :film_projector: [Realistic Image Synthesis Course by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
+
 ### :book: [Physically Based Rendering by Matt Pharr and others](https://www.pbr-book.org/)
 
 ### :book: [Graphics Programming Black Book by Michael Abrash](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
 
-### :film_projector: [Realistic Image Synthesis Course by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
-
 ### :film_projector: [Physics-based Rendering Course by Ioannis Gkioulekas](http://graphics.cs.cmu.edu/courses/15-468/)
-
-### :film_projector: [Physically Based Shading in Theory and Practice SIGGRAPH Course](https://blog.selfshadow.com/publications/)
 
 ### :card_file_box: [Graphics Programming Article Database by Jendrik Illner](https://www.jendrikillner.com/article_database/)
 
@@ -144,6 +132,8 @@
 ### :book: [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
 
 ### :man_technologist: [3D Game Engine Programming Tutorials by Jeremiah van Oosten](https://www.3dgep.com/)
+
+### :film_projector: [Physically Based Shading in Theory and Practice SIGGRAPH Course](https://blog.selfshadow.com/publications/)
 
 ### :book: [Physically Based Rendering in Filament by Romain Guy and Mathias Agopian](https://google.github.io/filament/Filament.html)
 
