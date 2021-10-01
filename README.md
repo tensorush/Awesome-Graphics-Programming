@@ -19,6 +19,13 @@
 
 ## :man_teacher: Collection of the most awesome learning resources on Computer Graphics, Computer Vision, Geometry Processing and Geometric Deep Learning in the form of tutorials, videos and books.
 
+## Table of Contents:
+
+  - [:dragon: Computer Graphics](#dragon-computer-graphics)
+  - [:eye: Computer Vision](#eye-computer-vision)
+  - [:brain: Geometric Deep Learning](#brain-geometric-deep-learning)
+  - [:globe_with_meridians: Geometry Processing](#globe_with_meridians-geometry-processing)
+
 > ### Contributions are very welcome! :hugs:
 
 ## :dragon: Computer Graphics
@@ -105,9 +112,9 @@
 
 ### :man_technologist: [Fragment Shaders Workshop by Hugh Kennedy](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
 
-### :film_projector: [Rendering Algorithms Course by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
-
 ### :man_technologist: [Vulkan in 30 Minutes Tutorial by Baldur Karlsson](https://renderdoc.org/vulkan-in-30-minutes.html)
+
+### :film_projector: [Rendering Algorithms Course by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
 
 ### :film_projector: [Interactive Computer Graphics Course by Stanford](https://web.stanford.edu/class/cs248/lectures.html)
 
@@ -115,9 +122,9 @@
 
 ### :man_technologist: [WebGL and Three.js Tutorials by GFX Fundamentals](https://gfxfundamentals.org/)
 
-### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
-
 ### :film_projector: [Realistic Image Synthesis Course by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
+
+### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
 
 ### :book: [Physically Based Rendering by Matt Pharr and others](https://www.pbr-book.org/)
 
