@@ -23,10 +23,10 @@
 
 ## Table of Contents
 
-  - ### [:dragon: Computer Graphics](#dragon-computer-graphics)
-  - ### [:eye: Computer Vision](#eye-computer-vision)
-  - ### [:brain: Geometric Deep Learning](#brain-geometric-deep-learning)
-  - ### [:globe_with_meridians: Geometry Processing](#globe_with_meridians-geometry-processing)
+- [:dragon: Computer Graphics](#dragon-computer-graphics)
+- [:eye: Computer Vision](#eye-computer-vision)
+- [:brain: Geometric Deep Learning](#brain-geometric-deep-learning)
+- [:globe_with_meridians: Geometry Processing](#globe_with_meridians-geometry-processing)
 
 ## :dragon: Computer Graphics
 
