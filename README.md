@@ -23,9 +23,6 @@
 
 ## Table of Contents
 
-- [:ice_cube: **Awesome 3D Learning** ![Awesome](https://github.com/sindresorhus/awesome)](#ice_cube-awesome-3d-learning-)
-  - [:man_teacher: Collection of the most awesome learning resources on Computer Graphics, Computer Vision, Geometry Processing and Geometric Deep Learning in the form of tutorials, videos and books.](#man_teacher-collection-of-the-most-awesome-learning-resources-on-computer-graphics-computer-vision-geometry-processing-and-geometric-deep-learning-in-the-form-of-tutorials-videos-and-books)
-  - [Table of Contents](#table-of-contents)
   - [:dragon: Computer Graphics](#dragon-computer-graphics)
   - [:eye: Computer Vision](#eye-computer-vision)
   - [:brain: Geometric Deep Learning](#brain-geometric-deep-learning)
