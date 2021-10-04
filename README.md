@@ -23,10 +23,10 @@
 
 ## Table of Contents
 
-  - [:dragon: Computer Graphics](#dragon-computer-graphics)
-  - [:eye: Computer Vision](#eye-computer-vision)
-  - [:brain: Geometric Deep Learning](#brain-geometric-deep-learning)
-  - [:globe_with_meridians: Geometry Processing](#globe_with_meridians-geometry-processing)
+- [:dragon: Computer Graphics](#dragon-computer-graphics)
+- [:eye: Computer Vision](#eye-computer-vision)
+- [:brain: Geometric Deep Learning](#brain-geometric-deep-learning)
+- [:globe_with_meridians: Geometry Processing](#globe_with_meridians-geometry-processing)
 
 ## :dragon: Computer Graphics
 
@@ -181,6 +181,8 @@
 - ### :film_projector: [Slides by Mario Botsch and others](http://www.pmp-book.org/)
 
 - ### :film_projector: [Slides by Maks Ovsjanikov and others](http://www.lix.polytechnique.fr/~maks/fmaps_SIG17_course/schedule.html)
+
+- ### :film_projector: [Machine Learning Meets Geometry Course Slides by Hao Su and Meng Song](https://geoml.github.io/schedule.html)
 
 <!-- MARKDOWN LINKS -->
 
