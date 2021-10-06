@@ -88,6 +88,8 @@
 
 - ### :man_technologist: [Handmade Hero by Casey Muratori](https://handmadehero.org/)
 
+- ### :tv: [Pixar Animation Studio Pipeline](https://www.youtube.com/playlist?list=PLdbCjIV0Pl9Dc13R5vaVMk7DZbnkzn9hK)
+
 - ### :man_technologist: [Vulkan Cookbook by Pawel Lapinski](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
 - ### :man_technologist: [OpenGL Tutorials by Anton Gerdelan](https://antongerdelan.net/opengl/)
