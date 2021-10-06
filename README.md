@@ -80,6 +80,8 @@
 
 - ### :man_technologist: [Graphics Gems by Eric Haines](https://github.com/erich666/GraphicsGems)
 
+- ### :man_technologist: [Vulkan Samples by Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
+
 - ### :man_technologist: [Vulkan Tutorials by Dustin Land](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
 
 - ### :card_file_box: [Graphics Programming Resources](https://graphics-programming.org/resources/)
@@ -96,6 +98,8 @@
 
 - ### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
 
+- ### :tv: [Rendering Course by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
+
 - ### :man_technologist: [Introduction to DirectX Raytracing Course](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing)
 
 - ### :man_technologist: [Raymarching Workshop by Electric Square](https://github.com/electricsquare/raymarching-workshop/blob/master/readme.md)
@@ -106,7 +110,7 @@
 
 - ### :card_file_box: [SIGGRAPH Course Database by Stephen Hill](https://blog.selfshadow.com/archive/)
 
-- ### :tv: [Videos by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
+- ### :tv: [Rendering Course by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
 
 - ### :book: [Ray Tracing in One Weekend by Peter Shirley](https://raytracing.github.io/)
 
@@ -135,6 +139,8 @@
 - ### :card_file_box: [Graphics Programming Article Database by Jendrik Illner](https://www.jendrikillner.com/article_database/)
 
 - ### :book: [Learn OpenGL — Graphics Programming by Joey de Vries](https://learnopengl.com/)
+
+- ### :tv: [Vulkan Essentials Lectures by Johannes Unterguggenberger](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)
 
 - ### :book: [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
 
