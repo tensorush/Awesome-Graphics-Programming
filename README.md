@@ -80,11 +80,11 @@
 
 - ### :man_technologist: [Graphics Gems by Eric Haines](https://github.com/erich666/GraphicsGems)
 
-- ### :man_technologist: [Vulkan Samples by Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
-
 - ### :man_technologist: [Vulkan Tutorials by Dustin Land](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
 
 - ### :card_file_box: [Graphics Programming Resources](https://graphics-programming.org/resources/)
+
+- ### :man_technologist: [Vulkan Samples by Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
 
 - ### :man_technologist: [Handmade Hero by Casey Muratori](https://handmadehero.org/)
 
@@ -110,8 +110,6 @@
 
 - ### :card_file_box: [SIGGRAPH Course Database by Stephen Hill](https://blog.selfshadow.com/archive/)
 
-- ### :tv: [Rendering Course by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
-
 - ### :book: [Ray Tracing in One Weekend by Peter Shirley](https://raytracing.github.io/)
 
 - ### :man_technologist: [Fragment Shaders Workshop by Hugh Kennedy](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
@@ -135,6 +133,8 @@
 - ### :book: [Graphics Programming Black Book by Michael Abrash](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
 
 - ### :film_projector: [Physics-based Rendering Course by Ioannis Gkioulekas](http://graphics.cs.cmu.edu/courses/15-468/)
+
+- ### :tv: [Rendering Course by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
 
 - ### :card_file_box: [Graphics Programming Article Database by Jendrik Illner](https://www.jendrikillner.com/article_database/)
 
