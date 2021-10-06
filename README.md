@@ -82,13 +82,13 @@
 
 - ### :man_technologist: [Vulkan Tutorials by Dustin Land](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
 
+- ### :tv: [Pixar Animation Studio Pipeline](https://www.youtube.com/playlist?list=PLdbCjIV0Pl9Dc13R5vaVMk7DZbnkzn9hK)
+
 - ### :card_file_box: [Graphics Programming Resources](https://graphics-programming.org/resources/)
 
 - ### :man_technologist: [Vulkan Samples by Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
 
 - ### :man_technologist: [Handmade Hero by Casey Muratori](https://handmadehero.org/)
-
-- ### :tv: [Pixar Animation Studio Pipeline](https://www.youtube.com/playlist?list=PLdbCjIV0Pl9Dc13R5vaVMk7DZbnkzn9hK)
 
 - ### :man_technologist: [Vulkan Cookbook by Pawel Lapinski](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
