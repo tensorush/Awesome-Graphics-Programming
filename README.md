@@ -17,16 +17,24 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome learning resources on Computer Graphics, Computer Vision, Geometry Processing and Geometric Deep Learning in the form of tutorials, videos and books.
+## :man_teacher: Collection of the most awesome learning resources on all things 3D: Augmented Reality, Computer Graphics, Computer Vision, Geometry Processing, Geometric Deep Learning and Virtual Reality in the form of tutorials, videos and books.
 
 > ### Contributions are very welcome! :hugs:
 
 ## Table of Contents
 
+- [:eyeglasses: Augmented Reality](#eyeglasses-augmented-reality)
 - [:dragon: Computer Graphics](#dragon-computer-graphics)
 - [:eye: Computer Vision](#eye-computer-vision)
 - [:brain: Geometric Deep Learning](#brain-geometric-deep-learning)
 - [:globe_with_meridians: Geometry Processing](#globe_with_meridians-geometry-processing)
+- [:dark_sunglasses: Virtual Reality](#dark_sunglasses-virtual-reality)
+
+## :eyeglasses: Augmented Reality
+
+- ### :man_teacher: [Introduction to Augmented Reality and ARCore Coursera Course](https://www.coursera.org/learn/ar)
+
+- ### :man_teacher: [Unity XR: How to Build AR and VR Apps Coursera Specialization](https://www.coursera.org/specializations/unity-xr)
 
 ## :dragon: Computer Graphics
 
@@ -191,6 +199,28 @@
 - ### :film_projector: [Slides by Maks Ovsjanikov and others](http://www.lix.polytechnique.fr/~maks/fmaps_SIG17_course/schedule.html)
 
 - ### :film_projector: [Machine Learning Meets Geometry Course Slides by Hao Su and Meng Song](https://geoml.github.io/schedule.html)
+
+## :dark_sunglasses: Virtual Reality
+
+- ### :globe_with_meridians: [VR Best Practice Tutorial](https://learn.unity.com/tutorial/vr-best-practice#)
+
+- ### :tv: [Valem Unity VR Tutorials](https://www.youtube.com/c/ValemVR/playlists)
+
+- ### :tv: [Lectures by Steven LaValle](https://www.youtube.com/playlist?list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh)
+
+- ### :tv: [VR with Andrew Unity VR Tutorials](https://www.youtube.com/c/VRwithAndrew/playlists)
+
+- ### :man_teacher: [Virtual Reality Coursera Specialization](https://www.coursera.org/specializations/virtual-reality)
+
+- ### :man_teacher: [Creating Virtual Reality Apps edX Course](https://www.edx.org/course/creating-virtual-reality-vr-apps-2)
+
+- ### :globe_with_meridians: [The UX of VR Curated List by Max Glenister](https://www.uxofvr.com/)
+
+- ### :tv: [VR Development for Google Cardboard by Dinesh Punni](https://www.youtube.com/playlist?list=PL6VJLOFcTt7b9h_1ECoTW5y-NILe001kJ)
+
+- ### :man_teacher: [Oculus & Unity: Design, Develop, and Deploy for VR Course](https://learn.unity.com/course/oculus-vr)
+
+- ### :tv: [How to Make a VR Game in Unity: Beginner's Guide by Justin Barnett](https://www.youtube.com/playlist?list=PLwz27aQG0IIJ8cPM-npX2AJ6Nb-MruYP3)
 
 <!-- MARKDOWN LINKS -->
 
