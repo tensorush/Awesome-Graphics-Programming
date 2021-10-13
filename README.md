@@ -32,9 +32,9 @@
 
 ## :eyeglasses: Augmented Reality
 
-- ### :man_teacher: [Introduction to Augmented Reality and ARCore Coursera Course](https://www.coursera.org/learn/ar)
-
 - ### :man_teacher: [Unity XR: How to Build AR and VR Apps Coursera Specialization](https://www.coursera.org/specializations/unity-xr)
+
+- ### :man_teacher: [Introduction to Augmented Reality and ARCore Coursera Course](https://www.coursera.org/learn/ar)
 
 ## :dragon: Computer Graphics
 
@@ -42,13 +42,13 @@
 
 - ### :man_technologist: [Graphics Codex](https://graphicscodex.com/)
 
-- ### :man_technologist: [WebGPU API Docs](https://gpuweb.github.io/gpuweb/)
-
 - ### :man_technologist: [WebGPU Training](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
 
 - ### :film_projector: [Stanford Courses](https://graphics.stanford.edu/courses/)
 
 - ### :man_technologist: [OpenGL Tutorials](http://www.opengl-tutorial.org/)
+
+- ### :man_technologist: [WebGPU API Docs](https://gpuweb.github.io/gpuweb/)
 
 - ### :tv: [Videos by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
 
@@ -76,6 +76,8 @@
 
 - ### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 
+- ### :man_technologist: [DirectX Graphics Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
+
 - ### :thought_balloon: [Blogposts by Inigo Quilez](https://iquilezles.org/www/index.htm)
 
 - ### :film_projector: [Slides by Daniel Cohen-Or](https://danielcohenor.com/courses/)
@@ -86,29 +88,27 @@
 
 - ### :thought_balloon: [Blogposts by Omar Shehata](https://gamedevelopment.tutsplus.com/series/a-beginners-guide-to-coding-graphics-shaders--cms-834)
 
-- ### :man_technologist: [DirectX Raytracing (DXR) Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
-
 - ### :film_projector: [Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php)
 
 - ### :man_technologist: [Graphics Gems by Eric Haines](https://github.com/erich666/GraphicsGems)
 
 - ### :man_technologist: [DirectX Raytracing (DXR) Spec](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)
 
-- ### :man_technologist: [DirectX Graphics Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
-
-- ### :man_technologist: [Intro to DirectX Raytracing (DXR)](https://github.com/acmarrs/IntroToDXR)
-
-- ### :man_technologist: [Simple Vulkan Raytracing Tutorials](https://github.com/iOrange/rtxON)
-
-- ### :man_technologist: [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
+- ### :man_technologist: [DirectX Raytracing (DXR) Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
 
 - ### :man_technologist: [Vulkan Tutorials by Dustin Land](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
 
 - ### :tv: [Pixar Animation Studio Pipeline](https://www.youtube.com/playlist?list=PLdbCjIV0Pl9Dc13R5vaVMk7DZbnkzn9hK)
 
+- ### :man_technologist: [Intro to DirectX Raytracing (DXR)](https://github.com/acmarrs/IntroToDXR)
+
+- ### :man_technologist: [Simple Vulkan Raytracing Tutorials](https://github.com/iOrange/rtxON)
+
 - ### :card_file_box: [Graphics Programming Resources](https://graphics-programming.org/resources/)
 
 - ### :man_technologist: [Vulkan Samples by Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
+
+- ### :man_technologist: [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 
 - ### :man_technologist: [Handmade Hero by Casey Muratori](https://handmadehero.org/)
 
@@ -124,8 +124,6 @@
 
 - ### :tv: [Rendering Course by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
-- ### :man_technologist: [Introduction to DirectX Raytracing (DXR) Course](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing)
-
 - ### :man_technologist: [Raymarching Workshop by Electric Square](https://github.com/electricsquare/raymarching-workshop/blob/master/readme.md)
 
 - ### :card_file_box: [Collection of books on Real-time Rendering](http://www.realtimerendering.com/books.html)
@@ -137,6 +135,8 @@
 - ### :book: [Ray Tracing in One Weekend by Peter Shirley](https://raytracing.github.io/)
 
 - ### :man_technologist: [Fragment Shaders Workshop by Hugh Kennedy](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
+
+- ### :man_technologist: [Introduction to DirectX Raytracing (DXR) Course](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing)
 
 - ### :man_technologist: [Vulkan in 30 Minutes Tutorial by Baldur Karlsson](https://renderdoc.org/vulkan-in-30-minutes.html)
 
@@ -152,8 +152,6 @@
 
 - ### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
 
-- ### :man_technologist: [Learn Wgpu: Rust's implementation of the WebGPU API](https://sotrh.github.io/learn-wgpu/)
-
 - ### :book: [Physically Based Rendering by Matt Pharr and others](https://www.pbr-book.org/)
 
 - ### :book: [Graphics Programming Black Book by Michael Abrash](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
@@ -163,6 +161,8 @@
 - ### :tv: [Rendering Course by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
 
 - ### :card_file_box: [Graphics Programming Article Database by Jendrik Illner](https://www.jendrikillner.com/article_database/)
+
+- ### :man_technologist: [Learn Wgpu: Rust's implementation of the WebGPU API](https://sotrh.github.io/learn-wgpu/)
 
 - ### :book: [Learn OpenGL — Graphics Programming by Joey de Vries](https://learnopengl.com/)
 
