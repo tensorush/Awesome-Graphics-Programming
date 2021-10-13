@@ -42,11 +42,11 @@
 
 - ### :man_technologist: [Graphics Codex](https://graphicscodex.com/)
 
-- ### :man_technologist: [WebGPU Training](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
-
 - ### :film_projector: [Stanford Courses](https://graphics.stanford.edu/courses/)
 
 - ### :man_technologist: [OpenGL Tutorials](http://www.opengl-tutorial.org/)
+
+- ### :man_technologist: [WebGPU Training](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
 
 - ### :man_technologist: [WebGPU API Docs](https://gpuweb.github.io/gpuweb/)
 
@@ -94,23 +94,23 @@
 
 - ### :man_technologist: [DirectX Raytracing (DXR) Spec](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)
 
-- ### :man_technologist: [DirectX Raytracing (DXR) Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
-
 - ### :man_technologist: [Vulkan Tutorials by Dustin Land](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
 
 - ### :tv: [Pixar Animation Studio Pipeline](https://www.youtube.com/playlist?list=PLdbCjIV0Pl9Dc13R5vaVMk7DZbnkzn9hK)
 
 - ### :man_technologist: [Intro to DirectX Raytracing (DXR)](https://github.com/acmarrs/IntroToDXR)
 
-- ### :man_technologist: [Simple Vulkan Raytracing Tutorials](https://github.com/iOrange/rtxON)
+- ### :man_technologist: [DirectX Raytracing (DXR) Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
 
 - ### :card_file_box: [Graphics Programming Resources](https://graphics-programming.org/resources/)
 
+- ### :man_technologist: [Simple Vulkan Raytracing Tutorials](https://github.com/iOrange/rtxON)
+
 - ### :man_technologist: [Vulkan Samples by Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
 
-- ### :man_technologist: [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
-
 - ### :man_technologist: [Handmade Hero by Casey Muratori](https://handmadehero.org/)
+
+- ### :man_technologist: [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 
 - ### :man_technologist: [Vulkan Cookbook by Pawel Lapinski](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
@@ -160,9 +160,9 @@
 
 - ### :tv: [Rendering Course by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
 
-- ### :card_file_box: [Graphics Programming Article Database by Jendrik Illner](https://www.jendrikillner.com/article_database/)
-
 - ### :man_technologist: [Learn Wgpu: Rust's implementation of the WebGPU API](https://sotrh.github.io/learn-wgpu/)
+
+- ### :card_file_box: [Graphics Programming Article Database by Jendrik Illner](https://www.jendrikillner.com/article_database/)
 
 - ### :book: [Learn OpenGL — Graphics Programming by Joey de Vries](https://learnopengl.com/)
 
