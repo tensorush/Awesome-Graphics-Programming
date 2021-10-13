@@ -42,6 +42,10 @@
 
 - ### :man_technologist: [Graphics Codex](https://graphicscodex.com/)
 
+- ### :man_technologist: [WebGPU API Docs](https://gpuweb.github.io/gpuweb/)
+
+- ### :man_technologist: [WebGPU Training](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
+
 - ### :film_projector: [Stanford Courses](https://graphics.stanford.edu/courses/)
 
 - ### :man_technologist: [OpenGL Tutorials](http://www.opengl-tutorial.org/)
@@ -82,11 +86,21 @@
 
 - ### :thought_balloon: [Blogposts by Omar Shehata](https://gamedevelopment.tutsplus.com/series/a-beginners-guide-to-coding-graphics-shaders--cms-834)
 
-- ### :man_technologist: [DirectX Raytracing Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
+- ### :man_technologist: [DirectX Raytracing (DXR) Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
 
 - ### :film_projector: [Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php)
 
 - ### :man_technologist: [Graphics Gems by Eric Haines](https://github.com/erich666/GraphicsGems)
+
+- ### :man_technologist: [DirectX Raytracing (DXR) Spec](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)
+
+- ### :man_technologist: [DirectX Graphics Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
+
+- ### :man_technologist: [Intro to DirectX Raytracing (DXR)](https://github.com/acmarrs/IntroToDXR)
+
+- ### :man_technologist: [Simple Vulkan Raytracing Tutorials](https://github.com/iOrange/rtxON)
+
+- ### :man_technologist: [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 
 - ### :man_technologist: [Vulkan Tutorials by Dustin Land](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
 
@@ -110,7 +124,7 @@
 
 - ### :tv: [Rendering Course by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
-- ### :man_technologist: [Introduction to DirectX Raytracing Course](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing)
+- ### :man_technologist: [Introduction to DirectX Raytracing (DXR) Course](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing)
 
 - ### :man_technologist: [Raymarching Workshop by Electric Square](https://github.com/electricsquare/raymarching-workshop/blob/master/readme.md)
 
@@ -137,6 +151,8 @@
 - ### :film_projector: [Realistic Image Synthesis Course by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
 
 - ### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
+
+- ### :man_technologist: [Learn Wgpu: Rust's implementation of the WebGPU API](https://sotrh.github.io/learn-wgpu/)
 
 - ### :book: [Physically Based Rendering by Matt Pharr and others](https://www.pbr-book.org/)
 
