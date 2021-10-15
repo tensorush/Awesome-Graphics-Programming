@@ -36,6 +36,8 @@
 
 - ### :man_teacher: [Introduction to Augmented Reality and ARCore Coursera Course](https://www.coursera.org/learn/ar)
 
+- ### :man_teacher: [Extended Reality for Everybody Coursera Specialization by Michael Nebeling](https://www.coursera.org/specializations/extended-reality-for-everybody)
+
 ## :dragon: Computer Graphics
 
 - ### :man_technologist: [Shader School](https://github.com/stackgl/shader-school)
@@ -120,6 +122,8 @@
 
 - ### :man_technologist: [OpenGL Rendering by Dmitry Sokolov](https://github.com/ssloy/tinyrenderer/wiki)
 
+- ### :man_technologist: [Pixar Graphics Tutorials and Courses](https://vimeo.com/user14728591)
+
 - ### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
 
 - ### :tv: [Rendering Course by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
@@ -191,6 +195,8 @@
 - ### :film_projector: [Slides by Kenji Hata and Silvio Savarese](https://web.stanford.edu/class/cs231a/course_notes.html)
 
 ## :brain: Geometric Deep Learning
+
+- ### :tv: [3DGV Seminar](https://www.youtube.com/channel/UCpCQ8tjahrTPMsBiyPg2H7Q/videos)
 
 - ### :tv: [Videos by Jure Leskovec](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
