@@ -124,6 +124,8 @@
 
 - ### :man_technologist: [Pixar Graphics Tutorials and Courses](https://vimeo.com/user14728591)
 
+- ### :tv: [Ray Tracing in Games with NVIDIA RTX](https://www.youtube.com/playlist?list=PL4FII4B-zM0eIbZNC11Dgub7HRraRDDDu)
+
 - ### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
 
 - ### :tv: [Rendering Course by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
