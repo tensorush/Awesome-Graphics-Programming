@@ -1,8 +1,8 @@
-# :ice_cube: **Awesome 3D Learning** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# :ice_cube: **Awesome 3D Programming** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Awesome-3D-Learning/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Awesome-3D-Programming/pulls)
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -17,7 +17,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome learning resources on all things 3D: Augmented Reality, Computer Graphics, Computer Vision, Geometry Processing, Geometric Deep Learning and Virtual Reality in the form of tutorials, videos and books.
+## :man_teacher: Collection of the most awesome learning resources on programming in 3D: Augmented Reality, Computer Graphics, Computer Vision, Geometry Processing, Geometric Deep Learning and Virtual Reality in the form of tutorials, videos and books.
 
 > ### Contributions are very welcome! :hugs:
 
@@ -248,13 +248,13 @@
 
 <!-- MARKDOWN LINKS -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/tensorush/Awesome-3D-Learning.svg?style=for-the-badge
-[contributors-url]: https://github.com/tensorush/Awesome-3D-Learning/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/tensorush/Awesome-3D-Learning.svg?style=for-the-badge
-[issues-url]: https://github.com/tensorush/Awesome-3D-Learning/issues
-[stars-shield]: https://img.shields.io/github/stars/tensorush/Awesome-3D-Learning.svg?style=for-the-badge
-[stars-url]: https://github.com/tensorush/Awesome-3D-Learning/stargazers
-[forks-shield]: https://img.shields.io/github/forks/tensorush/Awesome-3D-Learning.svg?style=for-the-badge
-[forks-url]: https://github.com/tensorush/Awesome-3D-Learning/network/members
-[license-shield]: https://img.shields.io/github/license/tensorush/Awesome-3D-Learning.svg?style=for-the-badge
-[license-url]: https://github.com/tensorush/Awesome-3D-Learning/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/tensorush/Awesome-3D-Programming.svg?style=for-the-badge
+[contributors-url]: https://github.com/tensorush/Awesome-3D-Programming/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/tensorush/Awesome-3D-Programming.svg?style=for-the-badge
+[issues-url]: https://github.com/tensorush/Awesome-3D-Programming/issues
+[stars-shield]: https://img.shields.io/github/stars/tensorush/Awesome-3D-Programming.svg?style=for-the-badge
+[stars-url]: https://github.com/tensorush/Awesome-3D-Programming/stargazers
+[forks-shield]: https://img.shields.io/github/forks/tensorush/Awesome-3D-Programming.svg?style=for-the-badge
+[forks-url]: https://github.com/tensorush/Awesome-3D-Programming/network/members
+[license-shield]: https://img.shields.io/github/license/tensorush/Awesome-3D-Programming.svg?style=for-the-badge
+[license-url]: https://github.com/tensorush/Awesome-3D-Programming/blob/master/LICENSE.md
