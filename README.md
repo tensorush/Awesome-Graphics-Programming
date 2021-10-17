@@ -126,6 +126,8 @@
 
 - ### :tv: [Ray Tracing in Games with NVIDIA RTX](https://www.youtube.com/playlist?list=PL4FII4B-zM0eIbZNC11Dgub7HRraRDDDu)
 
+- ### :tv: [Ray Tracing Essentials by Eric Haines](https://www.youtube.com/playlist?list=PL5B692fm6--sgm8Uiava0IIvUojjFOCSR)
+
 - ### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
 
 - ### :tv: [Rendering Course by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
