@@ -116,17 +116,17 @@
 
 - ### :man_technologist: [Vulkan Cookbook by Pawel Lapinski](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
+- ### :man_technologist: [Pixar Graphics Tutorials and Courses](https://vimeo.com/user14728591)
+
+- ### :tv: [Ray Tracing Essentials by Eric Haines](https://www.youtube.com/playlist?list=PL5B692fm6--sgm8Uiava0IIvUojjFOCSR)
+
 - ### :man_technologist: [OpenGL Tutorials by Anton Gerdelan](https://antongerdelan.net/opengl/)
 
 - ### :man_technologist: [Rendering Course by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
 
 - ### :man_technologist: [OpenGL Rendering by Dmitry Sokolov](https://github.com/ssloy/tinyrenderer/wiki)
 
-- ### :man_technologist: [Pixar Graphics Tutorials and Courses](https://vimeo.com/user14728591)
-
 - ### :tv: [Ray Tracing in Games with NVIDIA RTX](https://www.youtube.com/playlist?list=PL4FII4B-zM0eIbZNC11Dgub7HRraRDDDu)
-
-- ### :tv: [Ray Tracing Essentials by Eric Haines](https://www.youtube.com/playlist?list=PL5B692fm6--sgm8Uiava0IIvUojjFOCSR)
 
 - ### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
 
