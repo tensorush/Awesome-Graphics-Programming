@@ -36,6 +36,8 @@
 
 - ### :man_teacher: [Introduction to Augmented Reality and ARCore Coursera Course](https://www.coursera.org/learn/ar)
 
+- ### :man_technologist: [ARHeadsetKit: Google Cardboard AR Development Kit by Philip Turner](https://github.com/philipturner/ARHeadsetKit)
+
 - ### :man_teacher: [Extended Reality for Everybody Coursera Specialization by Michael Nebeling](https://www.coursera.org/specializations/extended-reality-for-everybody)
 
 ## :dragon: Computer Graphics
@@ -102,9 +104,9 @@
 
 - ### :man_technologist: [Intro to DirectX Raytracing (DXR)](https://github.com/acmarrs/IntroToDXR)
 
-- ### :man_technologist: [DirectX Raytracing (DXR) Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
-
 - ### :card_file_box: [Graphics Programming Resources](https://graphics-programming.org/resources/)
+
+- ### :man_technologist: [DirectX Raytracing (DXR) Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
 
 - ### :man_technologist: [Simple Vulkan Raytracing Tutorials](https://github.com/iOrange/rtxON)
 
@@ -158,9 +160,9 @@
 
 - ### :film_projector: [Realistic Image Synthesis Course by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
 
-- ### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
-
 - ### :book: [Physically Based Rendering by Matt Pharr and others](https://www.pbr-book.org/)
+
+- ### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
 
 - ### :book: [Graphics Programming Black Book by Michael Abrash](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
 
