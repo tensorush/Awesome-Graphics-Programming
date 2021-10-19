@@ -44,6 +44,8 @@
 
 - ### :man_technologist: [Shader School](https://github.com/stackgl/shader-school)
 
+- ### :man_technologist: [WebGPU Samples](https://austin-eng.com/webgpu-samples/)
+
 - ### :man_technologist: [Graphics Codex](https://graphicscodex.com/)
 
 - ### :film_projector: [Stanford Courses](https://graphics.stanford.edu/courses/)
@@ -71,6 +73,8 @@
 - ### :man_technologist: [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming)
 
 - ### :tv: [Videos by Nelson Max](https://www.youtube.com/playlist?list=PL_w_qWAQZtAYd0Kxmq17YXwqXkO1MVrqi)
+
+- ### :man_technologist: [WebGPU Best Practices](https://github.com/toji/webgpu-best-practices/blob/main/img-textures.md)
 
 - ### :film_projector: [Slides by Nancy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
 
