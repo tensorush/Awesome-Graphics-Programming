@@ -138,6 +138,10 @@
 
 - ### :tv: [Rendering Course by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
+- ### :man_technologist: [Interactive Computer Graphics Research](http://www.interactive-graphics.de/)
+
+- ### :man_technologist: [Unity Shader Tutorials by Catlike Coding](https://catlikecoding.com/unity/tutorials/)
+
 - ### :man_technologist: [Raymarching Workshop by Electric Square](https://github.com/electricsquare/raymarching-workshop/blob/master/readme.md)
 
 - ### :card_file_box: [Collection of books on Real-time Rendering](http://www.realtimerendering.com/books.html)
