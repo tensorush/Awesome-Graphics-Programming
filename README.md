@@ -44,8 +44,6 @@
 
 - ### :man_technologist: [Shader School](https://github.com/stackgl/shader-school)
 
-- ### :man_technologist: [WebGPU Samples](https://austin-eng.com/webgpu-samples/)
-
 - ### :man_technologist: [Graphics Codex](https://graphicscodex.com/)
 
 - ### :film_projector: [Stanford Courses](https://graphics.stanford.edu/courses/)
@@ -53,6 +51,8 @@
 - ### :man_technologist: [OpenGL Tutorials](http://www.opengl-tutorial.org/)
 
 - ### :man_technologist: [WebGPU Training](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
+
+- ### :man_technologist: [WebGPU Samples](https://austin-eng.com/webgpu-samples/)
 
 - ### :man_technologist: [WebGPU API Docs](https://gpuweb.github.io/gpuweb/)
 
@@ -134,13 +134,13 @@
 
 - ### :tv: [Ray Tracing in Games with NVIDIA RTX](https://www.youtube.com/playlist?list=PL4FII4B-zM0eIbZNC11Dgub7HRraRDDDu)
 
-- ### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
-
-- ### :tv: [Rendering Course by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
-
 - ### :man_technologist: [Interactive Computer Graphics Research](http://www.interactive-graphics.de/)
 
 - ### :man_technologist: [Unity Shader Tutorials by Catlike Coding](https://catlikecoding.com/unity/tutorials/)
+
+- ### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
+
+- ### :tv: [Rendering Course by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
 - ### :man_technologist: [Raymarching Workshop by Electric Square](https://github.com/electricsquare/raymarching-workshop/blob/master/readme.md)
 
