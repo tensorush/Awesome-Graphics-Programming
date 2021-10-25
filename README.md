@@ -49,9 +49,9 @@
 
 - ### :man_teacher: [Introduction to Augmented Reality and ARCore Coursera Course](https://www.coursera.org/learn/ar)
 
-- ### :man_technologist: [ARHeadsetKit: Google Cardboard AR Development Kit by Philip Turner](https://github.com/philipturner/ARHeadsetKit)
-
 - ### :man_teacher: [Visualization and Graphics in Mixed Reality Eurographics 2021 Tutorial](https://www.youtube.com/watch?v=RIr28JDuveA&list=PLBDGQkWJul-rOZTWl9tN0YtjWrAbAygyu&index=5)
+
+- ### :man_technologist: [ARHeadsetKit: Google Cardboard AR Development Kit by Philip Turner](https://github.com/philipturner/ARHeadsetKit)
 
 - ### :man_teacher: [Extended Reality for Everybody Coursera Specialization by Michael Nebeling](https://www.coursera.org/specializations/extended-reality-for-everybody)
 
@@ -83,23 +83,23 @@
 
   - #### :film_projector: [Stanford Graphics Courses](https://graphics.stanford.edu/courses/)
 
-  - #### :tv: [Computer Graphics Lectures by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
-
   - #### :man_teacher: [Princeton Graphics Courses](https://gfx.cs.princeton.edu/gfx-classes.php)
 
-  - #### :film_projector: [Computer Graphics Lecture Slides by Nancy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
+  - #### :tv: [Computer Graphics Lectures by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
 
   - #### :tv: [Computer Graphics Lectures by Keenan Crane](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 
-  - #### :tv: [Introduction to Computer Graphics Lectures by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
-
-  - #### :film_projector: [Interactive Computer Graphics Course Slides by Ron Fedkiw](https://web.stanford.edu/class/cs248/lectures.html)
+  - #### :film_projector: [Computer Graphics Lecture Slides by Nancy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
 
   - #### :film_projector: [Computer Graphics Courses Slides by Daniel Cohen-Or](https://danielcohenor.com/courses/)
 
+  - #### :globe_with_meridians: [Learn Computer Graphics From Scratch by Scratchapixel](https://www.scratchapixel.com/)
+
   - #### :film_projector: [Realistic Image Synthesis Course Slides by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
 
-  - #### :globe_with_meridians: [Learn Computer Graphics From Scratch by Scratchapixel](https://www.scratchapixel.com/)
+  - #### :film_projector: [Interactive Computer Graphics Course Slides by Ron Fedkiw](https://web.stanford.edu/class/cs248/lectures.html)
+
+  - #### :tv: [Introduction to Computer Graphics Lectures by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 
   - #### :film_projector: [Advanced Computer Graphics Lecture Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php)
 
@@ -155,6 +155,8 @@
 
   - #### :book: [GPU Gems by NVIDIA Developers Team and others](https://developer.nvidia.com/gpugems/gpugems/contributors)
 
+  - #### :thought_balloon: [Miscellaneous Graphics Blogposts by Alain Galvan](https://alain.xyz/blog)
+
 - ### :high_brightness: Ray Tracing
 
   - #### :tv: [Ray Tracing Essentials by Eric Haines](https://www.youtube.com/playlist?list=PL5B692fm6--sgm8Uiava0IIvUojjFOCSR)
@@ -173,23 +175,23 @@
 
   - #### :book: [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 
-  - #### :man_technologist: [Rendering Course Slides by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
-
   - #### :card_file_box: [Collection of books on Real-time Rendering](http://www.realtimerendering.com/books.html)
-
-  - #### :film_projector: [Rendering Algorithms Course Slides by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
-
-  - #### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
-
-  - #### :tv: [Rendering Course Slides by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
-
-  - #### :film_projector: [Crash Course in BRDF Implementation by Jakub Boksansky](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 
   - #### :tv: [Rendering Course Slides by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
   - #### :book: [Physically Based Rendering by Matt Pharr and others](https://www.pbr-book.org/)
 
+  - #### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
+
+  - #### :man_technologist: [Rendering Course Slides by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
+
+  - #### :film_projector: [Rendering Algorithms Course Slides by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
+
+  - #### :film_projector: [Crash Course in BRDF Implementation by Jakub Boksansky](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
+
   - #### :film_projector: [Physics-based Rendering Course Slides by Ioannis Gkioulekas](http://graphics.cs.cmu.edu/courses/15-468/)
+
+  - #### :tv: [Rendering Course Slides by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
 
   - #### :film_projector: [Physically Based Shading in Theory and Practice SIGGRAPH Course](https://blog.selfshadow.com/publications/)
 
@@ -203,9 +205,9 @@
 
   - #### :man_technologist: [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming)
 
-  - #### :thought_balloon: [Compute Shader Glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
-
   - #### :man_technologist: [Shader Tutorials by Ronja](https://www.ronja-tutorials.com/)
+
+  - #### :thought_balloon: [Compute Shader Glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
 
   - #### :man_technologist: [Unity Shader Tutorials by Catlike Coding](https://catlikecoding.com/unity/tutorials/)
 
@@ -289,8 +291,6 @@
 
 ## :globe_with_meridians: Geometry Processing
 
-- ### :man_teacher: [Course Slides by Alec Jacobson](https://github.com/alecjacobson/geometry-processing)
-
 - ### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
 
 - ### :tv: [Videos by Zhongshi Jiang](https://www.youtube.com/playlist?list=PL6Bl-NTBamMIf9jEmPNYgDyUs0zDTdZe_)
@@ -298,6 +298,8 @@
 - ### :film_projector: [Slides by various lecturers](https://mirelab6.wixsite.com/dgpslides)
 
 - ### :film_projector: [Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall03/cs597D/)
+
+- ### :man_teacher: [Course Slides by Alec Jacobson](https://github.com/alecjacobson/geometry-processing)
 
 - ### :film_projector: [Slides by Mario Botsch and others](http://www.pmp-book.org/)
 
