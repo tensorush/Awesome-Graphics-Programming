@@ -25,6 +25,19 @@
 
 - [:eyeglasses: Augmented Reality](#eyeglasses-augmented-reality)
 - [:dragon: Computer Graphics](#dragon-computer-graphics)
+
+  - [:heavy_multiplication_x: DirectX](#heavy_multiplication_x-directx)
+  - [:joystick: Game Engine Programming](#joystick-game-engine-programming)
+  - [:scroll: General Theory](#scroll-general-theory)
+  - [:crystal_ball: Graphics Programming](#crystal_ball-graphics-programming)
+  - [:cyclone: OpenGL](#cyclone-opengl)
+  - [:slot_machine: Random Topics](#slot_machine-random-topics)
+  - [:high_brightness: Ray Tracing](#high_brightness-ray-tracing)
+  - [:framed_picture: Rendering](#framed_picture-rendering)
+  - [:rainbow: Shaders](#rainbow-shaders)
+  - [:volcano: Vulkan](#volcano-vulkan)
+  - [:globe_with_meridians: WebGPU](#globe_with_meridians-webgpu)
+
 - [:eye: Computer Vision](#eye-computer-vision)
 - [:brain: Geometric Deep Learning](#brain-geometric-deep-learning)
 - [:globe_with_meridians: Geometry Processing](#globe_with_meridians-geometry-processing)
@@ -44,159 +57,213 @@
 
 ## :dragon: Computer Graphics
 
-- ### :man_technologist: [Shader School](https://github.com/stackgl/shader-school)
+- ### :heavy_multiplication_x: DirectX
 
-- ### :man_technologist: [Graphics Codex](https://graphicscodex.com/)
+  - #### :man_technologist: [DirectX Graphics Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
 
-- ### :film_projector: [Stanford Courses](https://graphics.stanford.edu/courses/)
+  - #### :man_technologist: [DirectX Raytracing (DXR) Spec](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)
 
-- ### :man_technologist: [OpenGL Tutorials](http://www.opengl-tutorial.org/)
+  - #### :man_technologist: [Intro to DirectX Raytracing (DXR)](https://github.com/acmarrs/IntroToDXR)
 
-- ### :man_technologist: [WebGPU Training](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
+  - #### :man_technologist: [DirectX Raytracing (DXR) Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
 
-- ### :man_technologist: [WebGPU Samples](https://austin-eng.com/webgpu-samples/)
+  - #### :man_technologist: [Introduction to DirectX Raytracing (DXR) Course](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing)
 
-- ### :man_technologist: [WebGPU API Docs](https://gpuweb.github.io/gpuweb/)
+- ### :joystick: Game Engine Programming
 
-- ### :tv: [Videos by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
+  - #### :man_technologist: [3D Game Engine Programming Tutorials by Jeremiah van Oosten](https://www.3dgep.com/)
 
-- ### :man_teacher: [Princeton Courses](https://gfx.cs.princeton.edu/gfx-classes.php)
+  - #### :man_technologist: [Handmade Hero Game Engine Programming Series by Casey Muratori](https://handmadehero.org/)
 
-- ### :man_technologist: [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming)
+  - #### :book: [Foundations of Game Engine Development Book Series by Eric Lengyel](https://foundationsofgameenginedev.com/)
 
-- ### :man_technologist: [NV Scene Seminars](https://www.youtube.com/c/NVScene/playlists)
+- ### :scroll: General Theory
 
-- ### :thought_balloon: [Blogposts by Ronja](https://www.ronja-tutorials.com/)
+  - #### :man_technologist: [Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html)
 
-- ### :film_projector: [Slides by Ron Fedkiw](https://web.stanford.edu/class/cs148/lectures.html)
+  - #### :film_projector: [Stanford Graphics Courses](https://graphics.stanford.edu/courses/)
 
-- ### :man_technologist: [Vulkan API Examples](https://github.com/SaschaWillems/Vulkan)
+  - #### :tv: [Computer Graphics Lectures by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
 
-- ### :man_technologist: [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming)
+  - #### :man_teacher: [Princeton Graphics Courses](https://gfx.cs.princeton.edu/gfx-classes.php)
 
-- ### :tv: [Videos by Nelson Max](https://www.youtube.com/playlist?list=PL_w_qWAQZtAYd0Kxmq17YXwqXkO1MVrqi)
+  - #### :film_projector: [Computer Graphics Lecture Slides by Nancy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
 
-- ### :man_technologist: [WebGPU Best Practices](https://github.com/toji/webgpu-best-practices/blob/main/img-textures.md)
+  - #### :tv: [Computer Graphics Lectures by Keenan Crane](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 
-- ### :film_projector: [Slides by Nancy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
+  - #### :tv: [Introduction to Computer Graphics Lectures by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 
-- ### :thought_balloon: [Blogposts by Etay Meiri](https://ogldev.org/)
+  - #### :film_projector: [Interactive Computer Graphics Course Slides by Ron Fedkiw](https://web.stanford.edu/class/cs248/lectures.html)
 
-- ### :tv: [Videos by Keenan Crane](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
+  - #### :film_projector: [Computer Graphics Courses Slides by Daniel Cohen-Or](https://danielcohenor.com/courses/)
 
-- ### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
+  - #### :film_projector: [Realistic Image Synthesis Course Slides by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
 
-- ### :man_technologist: [DirectX Graphics Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
+  - #### :globe_with_meridians: [Learn Computer Graphics From Scratch by Scratchapixel](https://www.scratchapixel.com/)
 
-- ### :thought_balloon: [Blogposts by Inigo Quilez](https://iquilezles.org/www/index.htm)
+  - #### :film_projector: [Advanced Computer Graphics Lecture Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php)
 
-- ### :film_projector: [Slides by Daniel Cohen-Or](https://danielcohenor.com/courses/)
+  - #### :film_projector: [Introduction to Computer Graphics and Imaging Lecture Slides by Ron Fedkiw](https://web.stanford.edu/class/cs148/lectures.html)
 
-- ### :thought_balloon: [Blogposts by David Lettier](https://lettier.github.io/3d-game-shaders-for-beginners/index.html)
+- ### :crystal_ball: Graphics Programming
 
-- ### :thought_balloon: [Blogposts by Scratchapixel](https://www.scratchapixel.com/)
+  - #### :man_technologist: [Graphics Gems by Eric Haines](https://github.com/erich666/GraphicsGems)
 
-- ### :thought_balloon: [Blogposts by Omar Shehata](https://gamedevelopment.tutsplus.com/series/a-beginners-guide-to-coding-graphics-shaders--cms-834)
+  - #### :card_file_box: [Graphics Programming Resources](https://graphics-programming.org/resources/)
 
-- ### :film_projector: [Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php)
+  - #### :man_technologist: [Graphics Programming Virtual Meetup Sessions](https://www.youtube.com/c/GraphicsProgrammingVirtualMeetup/playlists?view=1&sort=dd&shelf_id=0)
 
-- ### :man_technologist: [Graphics Gems by Eric Haines](https://github.com/erich666/GraphicsGems)
+  - #### :thought_balloon: [Graphics Programming Blogposts by Inigo Quilez](https://iquilezles.org/www/index.htm)
 
-- ### :man_technologist: [DirectX Raytracing (DXR) Spec](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)
+  - #### :book: [Graphics Programming Black Book by Michael Abrash](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
 
-- ### :man_technologist: [Vulkan Tutorials by Dustin Land](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
+  - #### :card_file_box: [Graphics Programming Article Database by Jendrik Illner](https://www.jendrikillner.com/article_database/)
 
-- ### :tv: [Pixar Animation Studio Pipeline](https://www.youtube.com/playlist?list=PLdbCjIV0Pl9Dc13R5vaVMk7DZbnkzn9hK)
+  - #### :card_file_box: [Weekly Graphics Programming Article Summary by Jendrik Illner](https://www.jendrikillner.com/post/)
 
-- ### :man_technologist: [Intro to DirectX Raytracing (DXR)](https://github.com/acmarrs/IntroToDXR)
+- ### :cyclone: OpenGL
 
-- ### :card_file_box: [Graphics Programming Resources](https://graphics-programming.org/resources/)
+  - #### :man_technologist: [OpenGL Tutorials](http://www.opengl-tutorial.org/)
 
-- ### :man_technologist: [DirectX Raytracing (DXR) Tutorials](https://github.com/NVIDIAGameWorks/DxrTutorials)
+  - #### :man_technologist: [Awesome OpenGL](https://github.com/eug/awesome-opengl)
 
-- ### :man_technologist: [Simple Vulkan Raytracing Tutorials](https://github.com/iOrange/rtxON)
+  - #### :man_technologist: [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming)
 
-- ### :man_technologist: [Vulkan Samples by Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
+  - #### :man_technologist: [OpenGL Tutorials by Anton Gerdelan](https://antongerdelan.net/opengl/)
 
-- ### :man_technologist: [Handmade Hero by Casey Muratori](https://handmadehero.org/)
+  - #### :man_technologist: [OpenGL Rendering by Dmitry Sokolov](https://github.com/ssloy/tinyrenderer/wiki)
 
-- ### :man_technologist: [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
+  - #### :thought_balloon: [Modern OpenGL Tutorials by Etay Meiri](https://ogldev.org/)
 
-- ### :man_technologist: [Vulkan Cookbook by Pawel Lapinski](https://github.com/PacktPublishing/Vulkan-Cookbook)
+  - #### :book: [Learn OpenGL — Graphics Programming by Joey de Vries](https://learnopengl.com/)
 
-- ### :man_technologist: [Pixar Graphics Tutorials and Courses](https://vimeo.com/user14728591)
+- ### :slot_machine: Random Topics
 
-- ### :tv: [Ray Tracing Essentials by Eric Haines](https://www.youtube.com/playlist?list=PL5B692fm6--sgm8Uiava0IIvUojjFOCSR)
+  - #### :man_technologist: [NV Scene Seminars](https://www.youtube.com/c/NVScene/playlists)
 
-- ### :man_technologist: [OpenGL Tutorials by Anton Gerdelan](https://antongerdelan.net/opengl/)
+  - #### :film_projector: [SIGGRAPH University Courses](https://www.youtube.com/playlist?list=PLUPhVMQuDB_aWSKj7L*-3Ot_nxBze_YMy)
 
-- ### :man_technologist: [Rendering Course by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
+  - #### :tv: [Pixar Animation Studio Pipeline](https://www.youtube.com/playlist?list=PLdbCjIV0Pl9Dc13R5vaVMk7DZbnkzn9hK)
 
-- ### :man_technologist: [OpenGL Rendering by Dmitry Sokolov](https://github.com/ssloy/tinyrenderer/wiki)
+  - #### :man_technologist: [Pixar Graphics Tutorials and Courses](https://vimeo.com/user14728591)
 
-- ### :tv: [Ray Tracing in Games with NVIDIA RTX](https://www.youtube.com/playlist?list=PL4FII4B-zM0eIbZNC11Dgub7HRraRDDDu)
+  - #### :man_technologist: [Interactive Computer Graphics Research](http://www.interactive-graphics.de/)
 
-- ### :man_technologist: [Interactive Computer Graphics Research](http://www.interactive-graphics.de/)
+  - #### :card_file_box: [SIGGRAPH Course Database by Stephen Hill](https://blog.selfshadow.com/archive/)
 
-- ### :man_technologist: [Unity Shader Tutorials by Catlike Coding](https://catlikecoding.com/unity/tutorials/)
+  - #### :film_projector: [Graphics Studies Compilation by Adrian Courrèges](http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 
-- ### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
+  - #### :book: [GPU Gems by NVIDIA Developers Team and others](https://developer.nvidia.com/gpugems/gpugems/contributors)
 
-- ### :tv: [Rendering Course by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
+- ### :high_brightness: Ray Tracing
 
-- ### :man_technologist: [Raymarching Workshop by Electric Square](https://github.com/electricsquare/raymarching-workshop/blob/master/readme.md)
+  - #### :tv: [Ray Tracing Essentials by Eric Haines](https://www.youtube.com/playlist?list=PL5B692fm6--sgm8Uiava0IIvUojjFOCSR)
 
-- ### :card_file_box: [Collection of books on Real-time Rendering](http://www.realtimerendering.com/books.html)
+  - #### :tv: [Ray Tracing in Games with NVIDIA RTX](https://www.youtube.com/playlist?list=PL4FII4B-zM0eIbZNC11Dgub7HRraRDDDu)
 
-- ### :book: [Ray Tracing Gems by Eric Haines and others](http://www.realtimerendering.com/raytracinggems/)
+  - #### :man_technologist: [Raymarching Workshop by Electric Square](https://github.com/electricsquare/raymarching-workshop/blob/master/readme.md)
 
-- ### :card_file_box: [SIGGRAPH Course Database by Stephen Hill](https://blog.selfshadow.com/archive/)
+  - #### :book: [Ray Tracing Gems by Eric Haines and others](http://www.realtimerendering.com/raytracinggems/)
 
-- ### :book: [Ray Tracing in One Weekend by Peter Shirley](https://raytracing.github.io/)
+  - #### :book: [Ray Tracing in One Weekend Book Series by Peter Shirley](https://raytracing.github.io/)
 
-- ### :man_technologist: [Fragment Shaders Workshop by Hugh Kennedy](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
+  - #### :tv: [Ray Tracing for Global Illumination Lectures by Nelson Max](https://www.youtube.com/playlist?list=PL_w_qWAQZtAYd0Kxmq17YXwqXkO1MVrqi)
 
-- ### :man_technologist: [Introduction to DirectX Raytracing (DXR) Course](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing)
+- ### :framed_picture: Rendering
 
-- ### :man_technologist: [Vulkan in 30 Minutes Tutorial by Baldur Karlsson](https://renderdoc.org/vulkan-in-30-minutes.html)
+  - #### :book: [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 
-- ### :film_projector: [Rendering Algorithms Course by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
+  - #### :man_technologist: [Rendering Course Slides by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
 
-- ### :film_projector: [Interactive Computer Graphics Course by Stanford](https://web.stanford.edu/class/cs248/lectures.html)
+  - #### :card_file_box: [Collection of books on Real-time Rendering](http://www.realtimerendering.com/books.html)
 
-- ### :book: [GPU Gems by NVIDIA Developers Team and others](https://developer.nvidia.com/gpugems/gpugems/contributors)
+  - #### :film_projector: [Rendering Algorithms Course Slides by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
 
-- ### :man_technologist: [WebGL and Three.js Tutorials by GFX Fundamentals](https://gfxfundamentals.org/)
+  - #### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
 
-- ### :film_projector: [Realistic Image Synthesis Course by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
+  - #### :tv: [Rendering Course Slides by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
 
-- ### :book: [Physically Based Rendering by Matt Pharr and others](https://www.pbr-book.org/)
+  - #### :film_projector: [Crash Course in BRDF Implementation by Jakub Boksansky](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 
-- ### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
+  - #### :tv: [Rendering Course Slides by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
-- ### :book: [Graphics Programming Black Book by Michael Abrash](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
+  - #### :book: [Physically Based Rendering by Matt Pharr and others](https://www.pbr-book.org/)
 
-- ### :film_projector: [Physics-based Rendering Course by Ioannis Gkioulekas](http://graphics.cs.cmu.edu/courses/15-468/)
+  - #### :film_projector: [Physics-based Rendering Course Slides by Ioannis Gkioulekas](http://graphics.cs.cmu.edu/courses/15-468/)
 
-- ### :tv: [Rendering Course by Adam Celarek and Bernhard Kerbl](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE3e8SQowQ-DjD1eZkBA_Xb9)
+  - #### :film_projector: [Physically Based Shading in Theory and Practice SIGGRAPH Course](https://blog.selfshadow.com/publications/)
 
-- ### :man_technologist: [Learn Wgpu: Rust's implementation of the WebGPU API](https://sotrh.github.io/learn-wgpu/)
+  - #### :book: [Physically Based Rendering in Filament by Romain Guy and Mathias Agopian](https://google.github.io/filament/Filament.html)
 
-- ### :card_file_box: [Graphics Programming Article Database by Jendrik Illner](https://www.jendrikillner.com/article_database/)
+  - #### :film_projector: [Monte Carlo Methods for Physically-based Volume Rendering Course Slides by Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/publications/novak18monte-sig.html)
 
-- ### :book: [Learn OpenGL — Graphics Programming by Joey de Vries](https://learnopengl.com/)
+- ### :rainbow: Shaders
 
-- ### :tv: [Vulkan Essentials Lectures by Johannes Unterguggenberger](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)
+  - #### :man_technologist: [Shader School](https://github.com/stackgl/shader-school)
 
-- ### :book: [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
+  - #### :man_technologist: [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming)
 
-- ### :man_technologist: [3D Game Engine Programming Tutorials by Jeremiah van Oosten](https://www.3dgep.com/)
+  - #### :thought_balloon: [Compute Shader Glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
 
-- ### :film_projector: [Physically Based Shading in Theory and Practice SIGGRAPH Course](https://blog.selfshadow.com/publications/)
+  - #### :man_technologist: [Shader Tutorials by Ronja](https://www.ronja-tutorials.com/)
 
-- ### :book: [Physically Based Rendering in Filament by Romain Guy and Mathias Agopian](https://google.github.io/filament/Filament.html)
+  - #### :man_technologist: [Unity Shader Tutorials by Catlike Coding](https://catlikecoding.com/unity/tutorials/)
 
-- ### :film_projector: [Monte Carlo Methods for Physically-based Volume Rendering Course by Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/publications/novak18monte-sig.html)
+  - #### :man_technologist: [Fragment Shaders Workshop by Hugh Kennedy](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
+
+  - #### :man_technologist: [3D Game Shaders For Beginners by David Lettier](https://lettier.github.io/3d-game-shaders-for-beginners/index.html)
+
+  - #### :film_projector: [How Does a GPU Shader Core Work? by Aras Pranckevičius](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
+
+  - #### :book: [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
+
+  - #### :thought_balloon: [How to Read Shader Assembly Blogpost by Kostas Anagnostou](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
+
+  - #### :tv: [Compute Shaders: Optimize Your Engine Using Compute by Lou Kramer](https://www.youtube.com/watch?v=0DLOJPSxJEg)
+
+  - #### :thought_balloon: [Beginner's Guide to Coding Graphics Shaders Blogpost Series by Omar Shehata](https://gamedevelopment.tutsplus.com/series/a-beginners-guide-to-coding-graphics-shaders--cms-834)
+
+- ### :volcano: Vulkan
+
+  - #### :man_technologist: [Vulkan Guide](https://vkguide.dev/)
+
+  - #### :card_file_box: [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
+
+  - #### :man_technologist: [Vulkan Diagrams](https://github.com/David-DiGioia/vulkan-diagrams)
+
+  - #### :man_technologist: [Vulkan API Examples](https://github.com/SaschaWillems/Vulkan)
+
+  - #### :man_technologist: [Vulkan Tutorials by Dustin Land](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
+
+  - #### :man_technologist: [Simple Vulkan Raytracing Tutorials](https://github.com/iOrange/rtxON)
+
+  - #### :man_technologist: [Vulkan Samples by Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
+
+  - #### :man_technologist: [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
+
+  - #### :man_technologist: [Vulkan Cookbook by Pawel Lapinski](https://github.com/PacktPublishing/Vulkan-Cookbook)
+
+  - #### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
+
+  - #### :man_technologist: [Vulkan in 30 Minutes Tutorial by Baldur Karlsson](https://renderdoc.org/vulkan-in-30-minutes.html)
+
+  - #### :tv: [Vulkan Essentials Lectures by Johannes Unterguggenberger](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)
+
+  - #### :thought_balloon: [Writing an Efficient Vulkan Renderer Blogpost by Arseny Kapoulkine](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
+
+- ### :globe_with_meridians: WebGPU
+
+  - #### :man_technologist: [WebGPU Training](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
+
+  - #### :man_technologist: [WebGPU Samples](https://austin-eng.com/webgpu-samples/)
+
+  - #### :man_technologist: [WebGPU API Docs](https://gpuweb.github.io/gpuweb/)
+
+  - #### :man_technologist: [WebGPU Best Practices](https://github.com/toji/webgpu-best-practices/blob/main/img-textures.md)
+
+  - #### :man_technologist: [WebGL and Three.js Tutorials by GFX Fundamentals](https://gfxfundamentals.org/)
+
+  - #### :man_technologist: [Learn Wgpu: Rust's implementation of the WebGPU API](https://sotrh.github.io/learn-wgpu/)
 
 ## :eye: Computer Vision
 
@@ -218,11 +285,11 @@
 
 - ### :film_projector: [Slides by Joan Bruna and others](https://github.com/joanbruna/MathsDL-spring19)
 
-- ### :man_teacher: [Course by Michael Bronstein and others](https://geometricdeeplearning.com/lectures/)
+- ### :man_teacher: [Course Slides by Michael Bronstein and others](https://geometricdeeplearning.com/lectures/)
 
 ## :globe_with_meridians: Geometry Processing
 
-- ### :man_teacher: [Course by Alec Jacobson](https://github.com/alecjacobson/geometry-processing)
+- ### :man_teacher: [Course Slides by Alec Jacobson](https://github.com/alecjacobson/geometry-processing)
 
 - ### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
 
