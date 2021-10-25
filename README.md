@@ -151,11 +151,11 @@
 
   - #### :card_file_box: [SIGGRAPH Course Database by Stephen Hill](https://blog.selfshadow.com/archive/)
 
+  - #### :thought_balloon: [Miscellaneous Graphics Blogposts by Alain Galvan](https://alain.xyz/blog)
+
   - #### :film_projector: [Graphics Studies Compilation by Adrian Courrèges](http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 
   - #### :book: [GPU Gems by NVIDIA Developers Team and others](https://developer.nvidia.com/gpugems/gpugems/contributors)
-
-  - #### :thought_balloon: [Miscellaneous Graphics Blogposts by Alain Galvan](https://alain.xyz/blog)
 
 - ### :high_brightness: Ray Tracing
 
@@ -175,6 +175,8 @@
 
   - #### :book: [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 
+  - #### :film_projector: [Rendering Algorithms Course Slides by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
+
   - #### :card_file_box: [Collection of books on Real-time Rendering](http://www.realtimerendering.com/books.html)
 
   - #### :tv: [Rendering Course Slides by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
@@ -184,8 +186,6 @@
   - #### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
 
   - #### :man_technologist: [Rendering Course Slides by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
-
-  - #### :film_projector: [Rendering Algorithms Course Slides by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
 
   - #### :film_projector: [Crash Course in BRDF Implementation by Jakub Boksansky](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 
