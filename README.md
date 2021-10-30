@@ -17,18 +17,18 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome learning resources on programming in 3D: Augmented Reality, Computer Graphics, Computer Vision, Geometry Processing, Geometric Deep Learning and Virtual Reality in the form of tutorials, videos and books.
+## :man_teacher: Collection of the most awesome learning resources on 3D programming in Computer Graphics, Extended Reality (AR/VR/MR) and Machine Learning (CV, GDL) in the form of tutorials, videos and books.
 
 > ### Contributions are very welcome! :hugs:
 
 ## Table of Contents
 
-- [:eyeglasses: Augmented Reality](#eyeglasses-augmented-reality)
 - [:dragon: Computer Graphics](#dragon-computer-graphics)
 
   - [:heavy_multiplication_x: DirectX](#heavy_multiplication_x-directx)
   - [:joystick: Game Engine Programming](#joystick-game-engine-programming)
   - [:scroll: General Theory](#scroll-general-theory)
+  - [:rabbit2: Geometry Processing](#rabbit2-geometry-processing)
   - [:crystal_ball: Graphics Programming](#crystal_ball-graphics-programming)
   - [:cyclone: OpenGL](#cyclone-opengl)
   - [:slot_machine: Random Topics](#slot_machine-random-topics)
@@ -36,24 +36,18 @@
   - [:framed_picture: Rendering](#framed_picture-rendering)
   - [:rainbow: Shaders](#rainbow-shaders)
   - [:volcano: Vulkan](#volcano-vulkan)
-  - [:globe_with_meridians: WebGPU](#globe_with_meridians-webgpu)
+  - [:fire: WebGPU](#fire-webgpu)
 
-- [:eye: Computer Vision](#eye-computer-vision)
-- [:brain: Geometric Deep Learning](#brain-geometric-deep-learning)
-- [:globe_with_meridians: Geometry Processing](#globe_with_meridians-geometry-processing)
-- [:dark_sunglasses: Virtual Reality](#dark_sunglasses-virtual-reality)
+- [:sunglasses: Digital Reality](#sunglasses-digital-reality)
 
-## :eyeglasses: Augmented Reality
+  - [:eyeglasses: Augmented Reality](#eyeglasses-augmented-reality)
+  - [:dark_sunglasses: Extended Reality](#dark_sunglasses-extended-reality)
+  - [:goggles: Virtual Reality](#goggles-virtual-reality)
 
-- ### :man_teacher: [Unity XR: How to Build AR and VR Apps Coursera Specialization](https://www.coursera.org/specializations/unity-xr)
+- [:robot: Machine Learning](robot-machine-learning)
 
-- ### :man_teacher: [Introduction to Augmented Reality and ARCore Coursera Course](https://www.coursera.org/learn/ar)
-
-- ### :man_teacher: [Visualization and Graphics in Mixed Reality Eurographics 2021 Tutorial](https://www.youtube.com/watch?v=RIr28JDuveA&list=PLBDGQkWJul-rOZTWl9tN0YtjWrAbAygyu&index=5)
-
-- ### :man_technologist: [ARHeadsetKit: Google Cardboard AR Development Kit by Philip Turner](https://github.com/philipturner/ARHeadsetKit)
-
-- ### :man_teacher: [Extended Reality for Everybody Coursera Specialization by Michael Nebeling](https://www.coursera.org/specializations/extended-reality-for-everybody)
+  - [:eye: Computer Vision](#eye-computer-vision)
+  - [:brain: Geometric Deep Learning](#brain-geometric-deep-learning)
 
 ## :dragon: Computer Graphics
 
@@ -93,7 +87,7 @@
 
   - #### :film_projector: [Computer Graphics Courses Slides by Daniel Cohen-Or](https://danielcohenor.com/courses/)
 
-  - #### :globe_with_meridians: [Learn Computer Graphics From Scratch by Scratchapixel](https://www.scratchapixel.com/)
+  - #### :fire: [Learn Computer Graphics From Scratch by Scratchapixel](https://www.scratchapixel.com/)
 
   - #### :film_projector: [Realistic Image Synthesis Course Slides by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
 
@@ -104,6 +98,24 @@
   - #### :film_projector: [Advanced Computer Graphics Lecture Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php)
 
   - #### :film_projector: [Introduction to Computer Graphics and Imaging Lecture Slides by Ron Fedkiw](https://web.stanford.edu/class/cs148/lectures.html)
+
+- ### :rabbit2: Geometry Processing
+
+  - #### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
+
+  - #### :tv: [Videos by Zhongshi Jiang](https://www.youtube.com/playlist?list=PL6Bl-NTBamMIf9jEmPNYgDyUs0zDTdZe_)
+
+  - #### :film_projector: [Slides by various lecturers](https://mirelab6.wixsite.com/dgpslides)
+
+  - #### :film_projector: [Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall03/cs597D/)
+
+  - #### :man_teacher: [Course Slides by Alec Jacobson](https://github.com/alecjacobson/geometry-processing)
+
+  - #### :film_projector: [Slides by Mario Botsch and others](http://www.pmp-book.org/)
+
+  - #### :film_projector: [Slides by Maks Ovsjanikov and others](http://www.lix.polytechnique.fr/~maks/fmaps_SIG17_course/schedule.html)
+
+  - #### :film_projector: [Machine Learning Meets Geometry Course Slides by Hao Su and Meng Song](https://geoml.github.io/schedule.html)
 
 - ### :crystal_ball: Graphics Programming
 
@@ -253,7 +265,7 @@
 
   - #### :thought_balloon: [Writing an Efficient Vulkan Renderer Blogpost by Arseny Kapoulkine](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 
-- ### :globe_with_meridians: WebGPU
+- ### :fire: WebGPU
 
   - #### :man_technologist: [WebGPU Training](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
 
@@ -267,67 +279,67 @@
 
   - #### :man_technologist: [Learn Wgpu: Rust's implementation of the WebGPU API](https://sotrh.github.io/learn-wgpu/)
 
-## :eye: Computer Vision
+## :sunglasses: Digital Reality
 
-- ### :man_teacher: [Princeton Courses](http://3dvision.princeton.edu/courses.html)
+- ### :eyeglasses: Augmented Reality
 
-- ### :tv: [Videos by Niloy Mitra](https://www.youtube.com/playlist?list=PLOp-ngXvomHDsEfQAP25HPoZpci9fW2dI)
+  - #### :man_teacher: [Introduction to Augmented Reality and ARCore Coursera Course](https://www.coursera.org/learn/ar)
 
-- ### :film_projector: [Slides by Guido Gerig](http://www.sci.utah.edu/~gerig/CS6320-S2015/CS6320_3D_Computer_Vision.html)
+  - #### :man_technologist: [ARHeadsetKit: Google Cardboard AR Development Kit by Philip Turner](https://github.com/philipturner/ARHeadsetKit)
 
-- ### :tv: [Videos by Shree Nayar](https://fpcv.cs.columbia.edu/)
+- ### :dark_sunglasses: Extended Reality
 
-- ### :film_projector: [Slides by Kenji Hata and Silvio Savarese](https://web.stanford.edu/class/cs231a/course_notes.html)
+  - #### :man_teacher: [Unity XR: How to Build AR and VR Apps Coursera Specialization](https://www.coursera.org/specializations/unity-xr)
 
-## :brain: Geometric Deep Learning
+  - #### :man_teacher: [Extended Reality for Everybody Coursera Specialization by Michael Nebeling](https://www.coursera.org/specializations/extended-reality-for-everybody)
 
-- ### :tv: [3DGV Seminar](https://www.youtube.com/channel/UCpCQ8tjahrTPMsBiyPg2H7Q/videos)
+  - #### :man_teacher: [Visualization and Graphics in Mixed Reality Eurographics 2021 Tutorial](https://www.youtube.com/watch?v=RIr28JDuveA&list=PLBDGQkWJul-rOZTWl9tN0YtjWrAbAygyu&index=5)
 
-- ### :tv: [Videos by Jure Leskovec](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+- ### :goggles: Virtual Reality
 
-- ### :film_projector: [Slides by Joan Bruna and others](https://github.com/joanbruna/MathsDL-spring19)
+  - #### :fire: [VR Best Practice Tutorial](https://learn.unity.com/tutorial/vr-best-practice#)
 
-- ### :man_teacher: [Course Slides by Michael Bronstein and others](https://geometricdeeplearning.com/lectures/)
+  - #### :tv: [Valem Unity VR Tutorials](https://www.youtube.com/c/ValemVR/playlists)
 
-## :globe_with_meridians: Geometry Processing
+  - #### :tv: [Lectures by Steven LaValle](https://www.youtube.com/playlist?list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh)
 
-- ### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
+  - #### :tv: [VR with Andrew Unity VR Tutorials](https://www.youtube.com/c/VRwithAndrew/playlists)
 
-- ### :tv: [Videos by Zhongshi Jiang](https://www.youtube.com/playlist?list=PL6Bl-NTBamMIf9jEmPNYgDyUs0zDTdZe_)
+  - #### :man_teacher: [Virtual Reality Coursera Specialization](https://www.coursera.org/specializations/virtual-reality)
 
-- ### :film_projector: [Slides by various lecturers](https://mirelab6.wixsite.com/dgpslides)
+  - #### :man_teacher: [Creating Virtual Reality Apps edX Course](https://www.edx.org/course/creating-virtual-reality-vr-apps-2)
 
-- ### :film_projector: [Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall03/cs597D/)
+  - #### :fire: [The UX of VR Curated List by Max Glenister](https://www.uxofvr.com/)
 
-- ### :man_teacher: [Course Slides by Alec Jacobson](https://github.com/alecjacobson/geometry-processing)
+  - #### :tv: [VR Development for Google Cardboard by Dinesh Punni](https://www.youtube.com/playlist?list=PL6VJLOFcTt7b9h_1ECoTW5y-NILe001kJ)
 
-- ### :film_projector: [Slides by Mario Botsch and others](http://www.pmp-book.org/)
+  - #### :man_teacher: [Oculus & Unity: Design, Develop, and Deploy for VR Course](https://learn.unity.com/course/oculus-vr)
 
-- ### :film_projector: [Slides by Maks Ovsjanikov and others](http://www.lix.polytechnique.fr/~maks/fmaps_SIG17_course/schedule.html)
+  - #### :tv: [How to Make a VR Game in Unity: Beginner's Guide by Justin Barnett](https://www.youtube.com/playlist?list=PLwz27aQG0IIJ8cPM-npX2AJ6Nb-MruYP3)
 
-- ### :film_projector: [Machine Learning Meets Geometry Course Slides by Hao Su and Meng Song](https://geoml.github.io/schedule.html)
+## :robot: Machine Learning
 
-## :dark_sunglasses: Virtual Reality
+- ### :eye: Computer Vision
 
-- ### :globe_with_meridians: [VR Best Practice Tutorial](https://learn.unity.com/tutorial/vr-best-practice#)
+  - #### :man_teacher: [Princeton Courses](http://3dvision.princeton.edu/courses.html)
 
-- ### :tv: [Valem Unity VR Tutorials](https://www.youtube.com/c/ValemVR/playlists)
+  - #### :tv: [Videos by Niloy Mitra](https://www.youtube.com/playlist?list=PLOp-ngXvomHDsEfQAP25HPoZpci9fW2dI)
 
-- ### :tv: [Lectures by Steven LaValle](https://www.youtube.com/playlist?list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh)
+  - #### :film_projector: [Slides by Guido Gerig](http://www.sci.utah.edu/~gerig/CS6320-S2015/CS6320_3D_Computer_Vision.html)
 
-- ### :tv: [VR with Andrew Unity VR Tutorials](https://www.youtube.com/c/VRwithAndrew/playlists)
+  - #### :tv: [Videos by Shree Nayar](https://fpcv.cs.columbia.edu/)
 
-- ### :man_teacher: [Virtual Reality Coursera Specialization](https://www.coursera.org/specializations/virtual-reality)
+  - #### :film_projector: [Slides by Kenji Hata and Silvio Savarese](https://web.stanford.edu/class/cs231a/course_notes.html)
 
-- ### :man_teacher: [Creating Virtual Reality Apps edX Course](https://www.edx.org/course/creating-virtual-reality-vr-apps-2)
+- ### :brain: Geometric Deep Learning
 
-- ### :globe_with_meridians: [The UX of VR Curated List by Max Glenister](https://www.uxofvr.com/)
+  - #### :tv: [3DGV Seminar](https://www.youtube.com/channel/UCpCQ8tjahrTPMsBiyPg2H7Q/videos)
 
-- ### :tv: [VR Development for Google Cardboard by Dinesh Punni](https://www.youtube.com/playlist?list=PL6VJLOFcTt7b9h_1ECoTW5y-NILe001kJ)
+  - #### :tv: [Videos by Jure Leskovec](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
-- ### :man_teacher: [Oculus & Unity: Design, Develop, and Deploy for VR Course](https://learn.unity.com/course/oculus-vr)
+  - #### :film_projector: [Slides by Joan Bruna and others](https://github.com/joanbruna/MathsDL-spring19)
 
-- ### :tv: [How to Make a VR Game in Unity: Beginner's Guide by Justin Barnett](https://www.youtube.com/playlist?list=PLwz27aQG0IIJ8cPM-npX2AJ6Nb-MruYP3)
+  - #### :man_teacher: [Course Slides by Michael Bronstein and others](https://geometricdeeplearning.com/lectures/)
 
 <!-- MARKDOWN LINKS -->
 
