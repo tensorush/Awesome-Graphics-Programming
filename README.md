@@ -87,7 +87,7 @@
 
   - #### :film_projector: [Computer Graphics Courses Slides by Daniel Cohen-Or](https://danielcohenor.com/courses/)
 
-  - #### :fire: [Learn Computer Graphics From Scratch by Scratchapixel](https://www.scratchapixel.com/)
+  - #### :globe_with_meridians: [Learn Computer Graphics From Scratch by Scratchapixel](https://www.scratchapixel.com/)
 
   - #### :film_projector: [Realistic Image Synthesis Course Slides by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
 
@@ -289,6 +289,8 @@
 
 - ### :dark_sunglasses: Extended Reality
 
+  - #### :tv: [Reality Lab Lectures](https://www.youtube.com/playlist?list=PL8bmgwX9eBPGUZXoy3SVplvJMiHkzP8T_)
+
   - #### :man_teacher: [Unity XR: How to Build AR and VR Apps Coursera Specialization](https://www.coursera.org/specializations/unity-xr)
 
   - #### :man_teacher: [Extended Reality for Everybody Coursera Specialization by Michael Nebeling](https://www.coursera.org/specializations/extended-reality-for-everybody)
@@ -297,7 +299,7 @@
 
 - ### :goggles: Virtual Reality
 
-  - #### :fire: [VR Best Practice Tutorial](https://learn.unity.com/tutorial/vr-best-practice#)
+  - #### :globe_with_meridians: [VR Best Practice Tutorial](https://learn.unity.com/tutorial/vr-best-practice#)
 
   - #### :tv: [Valem Unity VR Tutorials](https://www.youtube.com/c/ValemVR/playlists)
 
@@ -309,7 +311,7 @@
 
   - #### :man_teacher: [Creating Virtual Reality Apps edX Course](https://www.edx.org/course/creating-virtual-reality-vr-apps-2)
 
-  - #### :fire: [The UX of VR Curated List by Max Glenister](https://www.uxofvr.com/)
+  - #### :globe_with_meridians: [The UX of VR Curated List by Max Glenister](https://www.uxofvr.com/)
 
   - #### :tv: [VR Development for Google Cardboard by Dinesh Punni](https://www.youtube.com/playlist?list=PL6VJLOFcTt7b9h_1ECoTW5y-NILe001kJ)
 
