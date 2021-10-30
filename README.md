@@ -293,9 +293,9 @@
 
   - #### :man_teacher: [Unity XR: How to Build AR and VR Apps Coursera Specialization](https://www.coursera.org/specializations/unity-xr)
 
-  - #### :man_teacher: [Extended Reality for Everybody Coursera Specialization by Michael Nebeling](https://www.coursera.org/specializations/extended-reality-for-everybody)
-
   - #### :man_teacher: [Visualization and Graphics in Mixed Reality Eurographics 2021 Tutorial](https://www.youtube.com/watch?v=RIr28JDuveA&list=PLBDGQkWJul-rOZTWl9tN0YtjWrAbAygyu&index=5)
+
+  - #### :man_teacher: [Extended Reality for Everybody Coursera Specialization by Michael Nebeling](https://www.coursera.org/specializations/extended-reality-for-everybody)
 
 - ### :goggles: Virtual Reality
 
