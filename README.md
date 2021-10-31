@@ -187,9 +187,9 @@
 
   - #### :book: [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 
-  - #### :film_projector: [Rendering Algorithms Course Slides by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
-
   - #### :card_file_box: [Collection of books on Real-time Rendering](http://www.realtimerendering.com/books.html)
+
+  - #### :man_technologist: [Rendering Course Slides by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
 
   - #### :tv: [Rendering Course Slides by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
@@ -197,7 +197,7 @@
 
   - #### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
 
-  - #### :man_technologist: [Rendering Course Slides by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
+  - #### :film_projector: [Rendering Algorithms Course Slides by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
 
   - #### :film_projector: [Crash Course in BRDF Implementation by Jakub Boksansky](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 
