@@ -235,6 +235,8 @@
 
   - #### :man_technologist: [3D Game Shaders For Beginners by David Lettier](https://lettier.github.io/3d-game-shaders-for-beginners/index.html)
 
+  - #### :tv: [Graphics Algorithms and Shader Topics by Martin Donald](https://www.youtube.com/c/MartinDonald/videos)
+
   - #### :film_projector: [How Does a GPU Shader Core Work? by Aras Pranckevičius](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
 
   - #### :book: [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
