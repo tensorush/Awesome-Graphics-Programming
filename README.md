@@ -81,11 +81,17 @@
 
   - #### :tv: [Computer Graphics Lectures by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
 
+  - #### :man_technologist: [Computer Graphics Course by Alec Jacobson](https://github.com/alecjacobson/computer-graphics-csc317)
+
   - #### :tv: [Computer Graphics Lectures by Keenan Crane](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
+
+  - #### :man_technologist: [Physics-based Animation Course by David Levin](https://github.com/dilevin/CSC417-physics-based-animation)
 
   - #### :film_projector: [Computer Graphics Lecture Slides by Nancy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
 
   - #### :film_projector: [Computer Graphics Courses Slides by Daniel Cohen-Or](https://danielcohenor.com/courses/)
+
+  - #### :film_projector: [Computer Graphics Courses Slides by Mridul Aanjaneya](https://orionquest.github.io/CS523/)
 
   - #### :globe_with_meridians: [Learn Computer Graphics From Scratch by Scratchapixel](https://www.scratchapixel.com/)
 
@@ -98,6 +104,8 @@
   - #### :film_projector: [Advanced Computer Graphics Lecture Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php)
 
   - #### :film_projector: [Introduction to Computer Graphics and Imaging Lecture Slides by Ron Fedkiw](https://web.stanford.edu/class/cs148/lectures.html)
+
+  - #### :film_projector: [Simulation of 3D Deformable Solids SIGGRAPH Course Slides by Eftychios Sifakis and Jernej Barbič](http://www.femdefo.org/)
 
 - ### :rabbit2: Geometry Processing
 
