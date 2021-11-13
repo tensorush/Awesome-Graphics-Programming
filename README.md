@@ -181,6 +181,8 @@
 
 - ### :high_brightness: Ray Tracing
 
+  - #### :film_projector: [NVIDIA GDC 2019 Slides](https://onedrive.live.com/?authkey=%21AGqhV40kU5LIbTw&id=A6B78147D66DD722%2193553&cid=A6B78147D66DD722)
+
   - #### :tv: [Ray Tracing Essentials by Eric Haines](https://www.youtube.com/playlist?list=PL5B692fm6--sgm8Uiava0IIvUojjFOCSR)
 
   - #### :tv: [Ray Tracing in Games with NVIDIA RTX](https://www.youtube.com/playlist?list=PL4FII4B-zM0eIbZNC11Dgub7HRraRDDDu)
