@@ -25,6 +25,7 @@
 
 - [:dragon: Computer Graphics](#dragon-computer-graphics)
 
+  - [:running_man: Animation](#running_man-animation)
   - [:heavy_multiplication_x: DirectX](#heavy_multiplication_x-directx)
   - [:joystick: Game Engine Programming](#joystick-game-engine-programming)
   - [:scroll: General Theory](#scroll-general-theory)
@@ -51,6 +52,16 @@
 
 ## :dragon: Computer Graphics
 
+- ### :running_man: Animation
+
+  - #### :tv: [Animation Programming Basics](https://www.youtube.com/watch?v=Jkv0pbp0ckQ)
+
+  - #### :tv: [Pixar Animation Studio Pipeline](https://www.youtube.com/playlist?list=PLdbCjIV0Pl9Dc13R5vaVMk7DZbnkzn9hK)
+
+  - #### :tv: [Pixar Graphics Tutorials and Courses](https://vimeo.com/user14728591)
+
+  - #### :man_technologist: [Physics-based Animation Course by David Levin](https://github.com/dilevin/CSC417-physics-based-animation)
+
 - ### :heavy_multiplication_x: DirectX
 
   - #### :man_technologist: [DirectX Graphics Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
@@ -63,7 +74,13 @@
 
   - #### :man_technologist: [Introduction to DirectX Raytracing (DXR) Course](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing)
 
+  - #### :man_technologist: [DirectX 12 Raytracing Tutorial Blogpost Series by Martin-Karl Lefrançois and Pascal Gautron](https://developer.nvidia.com/rtx/raytracing/dxr/dx12-raytracing-tutorial-part-1)
+
 - ### :joystick: Game Engine Programming
+
+  - #### :tv: [Game Engine Programming Series by The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
+
+  - #### :tv: [Game Engine Programming Series by Arash Khatami](https://www.youtube.com/playlist?list=PLU2nPsAdxKWQYxkmQ3TdbLsyc1l2j25XM)
 
   - #### :man_technologist: [3D Game Engine Programming Tutorials by Jeremiah van Oosten](https://www.3dgep.com/)
 
@@ -85,8 +102,6 @@
 
   - #### :tv: [Computer Graphics Lectures by Keenan Crane](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 
-  - #### :man_technologist: [Physics-based Animation Course by David Levin](https://github.com/dilevin/CSC417-physics-based-animation)
-
   - #### :film_projector: [Computer Graphics Lecture Slides by Karan Singh](https://github.com/karansher/317-lectures)
 
   - #### :film_projector: [Computer Graphics Lecture Slides by Nancy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
@@ -96,6 +111,8 @@
   - #### :film_projector: [Computer Graphics Courses Slides by Mridul Aanjaneya](https://orionquest.github.io/CS523/)
 
   - #### :globe_with_meridians: [Learn Computer Graphics From Scratch by Scratchapixel](https://www.scratchapixel.com/)
+
+  - #### :tv: [Introduction to Computer Graphics Lectures by Cem Yuksel](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
 
   - #### :film_projector: [Realistic Image Synthesis Course Slides by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
 
@@ -165,10 +182,6 @@
 
   - #### :film_projector: [SIGGRAPH University Courses](https://www.youtube.com/playlist?list=PLUPhVMQuDB_aWSKj7L*-3Ot_nxBze_YMy)
 
-  - #### :tv: [Pixar Animation Studio Pipeline](https://www.youtube.com/playlist?list=PLdbCjIV0Pl9Dc13R5vaVMk7DZbnkzn9hK)
-
-  - #### :man_technologist: [Pixar Graphics Tutorials and Courses](https://vimeo.com/user14728591)
-
   - #### :man_technologist: [Interactive Computer Graphics Research](http://www.interactive-graphics.de/)
 
   - #### :card_file_box: [SIGGRAPH Course Database by Stephen Hill](https://blog.selfshadow.com/archive/)
@@ -199,6 +212,8 @@
 
   - #### :book: [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 
+  - #### :tv: [Rendering Engine Architecture Conference](https://www.youtube.com/channel/UCWhvzM3b8N_JbmmoM1fkeGg/playlists)
+
   - #### :card_file_box: [Collection of books on Real-time Rendering](http://www.realtimerendering.com/books.html)
 
   - #### :man_technologist: [Rendering Course Slides by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
@@ -221,7 +236,11 @@
 
   - #### :film_projector: [Physically Based Shading in Theory and Practice SIGGRAPH Course](https://blog.selfshadow.com/publications/)
 
+  - #### :thought_balloon: [Probability Theory for Physically Based Rendering Blogpost by Jacco Bikker](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering/)
+
   - #### :book: [Physically Based Rendering in Filament by Romain Guy and Mathias Agopian](https://google.github.io/filament/Filament.html)
+
+  - #### :tv: [Advances in Monte Carlo Rendering: The Legacy of Jaroslav Křivánek SIGGRAPH 2020 Course](https://www.youtube.com/watch?v=0fzJCrLKJg0)
 
   - #### :film_projector: [Monte Carlo Methods for Physically-based Volume Rendering Course Slides by Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/publications/novak18monte-sig.html)
 
@@ -267,7 +286,7 @@
 
   - #### :man_technologist: [Simple Vulkan Raytracing Tutorials](https://github.com/iOrange/rtxON)
 
-  - #### :man_technologist: [Vulkan Samples by Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
+  - #### :man_technologist: [Vulkan Samples by The Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
 
   - #### :man_technologist: [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 
@@ -278,6 +297,8 @@
   - #### :man_technologist: [Vulkan Mini Samples by Martin-Karl Lefrançois](https://github.com/nvpro-samples/vk_mini_samples)
 
   - #### :man_technologist: [Vulkan in 30 Minutes Tutorial by Baldur Karlsson](https://renderdoc.org/vulkan-in-30-minutes.html)
+
+  - #### :tv: [The Khronos Group GDC and SIGGRAPH Playlists](https://www.youtube.com/c/khronos/playlists)
 
   - #### :tv: [Vulkan Essentials Lectures by Johannes Unterguggenberger](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)
 
@@ -341,25 +362,23 @@
 
 - ### :eye: Computer Vision
 
-  - #### :man_teacher: [Princeton Courses](http://3dvision.princeton.edu/courses.html)
+  - #### :man_teacher: [Computer Vision Princeton Courses](http://3dvision.princeton.edu/courses.html)
 
-  - #### :tv: [Videos by Niloy Mitra](https://www.youtube.com/playlist?list=PLOp-ngXvomHDsEfQAP25HPoZpci9fW2dI)
+  - #### :film_projector: [3D Computer Vision Course Slides by Guido Gerig](http://www.sci.utah.edu/~gerig/CS6320-S2015/CS6320_3D_Computer_Vision.html)
 
-  - #### :film_projector: [Slides by Guido Gerig](http://www.sci.utah.edu/~gerig/CS6320-S2015/CS6320_3D_Computer_Vision.html)
+  - #### :tv: [First Principles of Computer Vision Videos by Shree Nayar](https://fpcv.cs.columbia.edu/)
 
-  - #### :tv: [Videos by Shree Nayar](https://fpcv.cs.columbia.edu/)
+  - #### :film_projector: [Visual Computing Systems Stanford Course Slides by Kayvon Fatahalian](https://graphics.stanford.edu/courses/cs348v-18-winter/)
 
-  - #### :film_projector: [Slides by Kenji Hata and Silvio Savarese](https://web.stanford.edu/class/cs231a/course_notes.html)
+  - #### :film_projector: [Computer Vision: From 3D Reconstruction to Recognition Course Slides by Kenji Hata and Silvio Savarese](https://web.stanford.edu/class/cs231a/course_notes.html)
 
 - ### :brain: Geometric Deep Learning
 
   - #### :tv: [3DGV Seminar](https://www.youtube.com/channel/UCpCQ8tjahrTPMsBiyPg2H7Q/videos)
 
-  - #### :tv: [Videos by Jure Leskovec](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+  - #### :tv: [Machine Learning with Graphs Lectures by Jure Leskovec](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
-  - #### :film_projector: [Slides by Joan Bruna and others](https://github.com/joanbruna/MathsDL-spring19)
-
-  - #### :man_teacher: [Course Slides by Michael Bronstein and others](https://geometricdeeplearning.com/lectures/)
+  - #### :man_teacher: [Geometric Deep Learing AMMI 2021 Course Slides by Michael Bronstein and others](https://geometricdeeplearning.com/lectures/)
 
 <!-- MARKDOWN LINKS -->
 
