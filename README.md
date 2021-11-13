@@ -286,11 +286,11 @@
 
   - #### :man_technologist: [Simple Vulkan Raytracing Tutorials](https://github.com/iOrange/rtxON)
 
-  - #### :man_technologist: [Vulkan Samples by The Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
+  - #### :man_technologist: [Vulkan Cookbook by Pawel Lapinski](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
   - #### :man_technologist: [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 
-  - #### :man_technologist: [Vulkan Cookbook by Pawel Lapinski](https://github.com/PacktPublishing/Vulkan-Cookbook)
+  - #### :man_technologist: [Vulkan Samples by The Khronos Group](https://github.com/KhronosGroup/Vulkan-Samples)
 
   - #### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
 
