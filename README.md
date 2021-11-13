@@ -87,6 +87,8 @@
 
   - #### :man_technologist: [Physics-based Animation Course by David Levin](https://github.com/dilevin/CSC417-physics-based-animation)
 
+  - #### :film_projector: [Computer Graphics Lecture Slides by Karan Singh](https://github.com/karansher/317-lectures)
+
   - #### :film_projector: [Computer Graphics Lecture Slides by Nancy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
 
   - #### :film_projector: [Computer Graphics Courses Slides by Daniel Cohen-Or](https://danielcohenor.com/courses/)
@@ -203,6 +205,8 @@
 
   - #### :book: [Physically Based Rendering by Matt Pharr and others](https://www.pbr-book.org/)
 
+  - #### :tv: [Advances in Real-Time Rendering SIGGRAPH Playlists](https://www.youtube.com/channel/UC9V4KS8ggGQe_Hfeg1OQrWw/playlists)
+
   - #### :film_projector: [Advances in Real-Time Rendering SIGGRAPH Courses](https://www.advances.realtimerendering.com/)
 
   - #### :film_projector: [Rendering Algorithms Course Slides by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
@@ -268,6 +272,8 @@
   - #### :man_technologist: [Vulkan Cookbook by Pawel Lapinski](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
   - #### :man_technologist: [Vulkan Tutorial by Alexander Overvoorde](https://vulkan-tutorial.com/)
+
+  - #### :man_technologist: [Vulkan Mini Samples by Martin-Karl Lefrançois](https://github.com/nvpro-samples/vk_mini_samples)
 
   - #### :man_technologist: [Vulkan in 30 Minutes Tutorial by Baldur Karlsson](https://renderdoc.org/vulkan-in-30-minutes.html)
 
