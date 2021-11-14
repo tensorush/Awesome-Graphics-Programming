@@ -322,6 +322,24 @@
 
 - ### :eyeglasses: Augmented Reality
 
+  - #### :tv: [ARKit Tutorials by Brian Advent](https://www.youtube.com/playlist?list=PLY1P2_piiWEZFWsH507mBa5WGR7t6P4c_)
+
+  - #### :man_technologist: [ARCore Course by Augmented Startups](https://github.com/augmentedstartups/ARCore)
+
+  - #### :man_technologist: [Vuforia AR Course by Augmented Startups](https://github.com/augmentedstartups/Vuforia_AR_Course)
+
+  - #### :tv: [Advanced Augmented Reality by Code Reality](https://www.youtube.com/playlist?list=PLfBoEJ1m-xhnGiZ5kVf6_KJkVAhqiW-d_)
+
+  - #### :tv: [Augmented Reality Tutorials by Matthew Hallberg](https://www.youtube.com/playlist?list=PLmE2ibStnoYrX3877o4fiXttbrI-VCW7h)
+
+  - #### :tv: [Unity AR Foundation Tutorials by Dilmer Valecillos](https://www.youtube.com/playlist?list=PLQMQNmwN3FvzCWfvCvq2AYh1CFnTlv2Es)
+
+  - #### :tv: [Foundations of Augmented Reality by Code Reality](https://www.youtube.com/playlist?list=PLfBoEJ1m-xhluRHfPgxgVnsiYH33lLExl)
+
+  - #### :thought_balloon: [ARKit by Example Blogpost Series by Mark Dawson](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
+
+  - #### :tv: [Augmented Reality Education Global Webinar by Code Reality](https://www.youtube.com/playlist?list=PLfBoEJ1m-xhlDpJSX9p-qHpwKmIvLEwGu)
+
   - #### :man_teacher: [Introduction to Augmented Reality and ARCore Coursera Course](https://www.coursera.org/learn/ar)
 
   - #### :man_technologist: [ARHeadsetKit: Google Cardboard AR Development Kit by Philip Turner](https://github.com/philipturner/ARHeadsetKit)
@@ -329,6 +347,10 @@
 - ### :dark_sunglasses: Extended Reality
 
   - #### :tv: [Reality Lab Lectures](https://www.youtube.com/playlist?list=PL8bmgwX9eBPGUZXoy3SVplvJMiHkzP8T_)
+
+  - #### :film_projector: [XR Course Lectures Slides by Mark Billinghurst](https://www.slideshare.net/marknb00/comp-4010-2010-lecture1introduction-to-xr)
+
+  - #### :tv: [Unity XR Interaction Toolkit Tutorials by Dilmer Valecillos](https://www.youtube.com/playlist?list=PLQMQNmwN3Fvx2d7uNxMkVOs1aUV-vxrlf)
 
   - #### :man_teacher: [Unity XR: How to Build AR and VR Apps Coursera Specialization](https://www.coursera.org/specializations/unity-xr)
 
@@ -342,11 +364,11 @@
 
   - #### :tv: [Valem Unity VR Tutorials](https://www.youtube.com/c/ValemVR/playlists)
 
-  - #### :tv: [Lectures by Steven LaValle](https://www.youtube.com/playlist?list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh)
-
   - #### :tv: [VR with Andrew Unity VR Tutorials](https://www.youtube.com/c/VRwithAndrew/playlists)
 
   - #### :man_teacher: [Virtual Reality Coursera Specialization](https://www.coursera.org/specializations/virtual-reality)
+
+  - #### :man_teacher: [Virtual Reality Course by Steven LaValle](http://lavalle.pl/vr/)
 
   - #### :man_teacher: [Creating Virtual Reality Apps edX Course](https://www.edx.org/course/creating-virtual-reality-vr-apps-2)
 
@@ -357,6 +379,8 @@
   - #### :man_teacher: [Oculus & Unity: Design, Develop, and Deploy for VR Course](https://learn.unity.com/course/oculus-vr)
 
   - #### :tv: [How to Make a VR Game in Unity: Beginner's Guide by Justin Barnett](https://www.youtube.com/playlist?list=PLwz27aQG0IIJ8cPM-npX2AJ6Nb-MruYP3)
+
+  - #### :thought_balloon: [Advanced VR Mechanics With Unity Blogpost by Eric Van de Kerckhove](https://www.raywenderlich.com/625-advanced-vr-mechanics-with-unity-and-the-htc-vive-part-1)
 
 ## :robot: Machine Learning
 
