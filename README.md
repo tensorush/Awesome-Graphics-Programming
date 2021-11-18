@@ -98,6 +98,8 @@
 
   - #### :tv: [Computer Graphics Lectures by Ken Joy](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
 
+  - #### :film_projector: [Computer Graphics Course by Keenan Crane](http://15462.courses.cs.cmu.edu/fall2021/)
+
   - #### :man_technologist: [Computer Graphics Course by Alec Jacobson](https://github.com/alecjacobson/computer-graphics-csc317)
 
   - #### :tv: [Computer Graphics Lectures by Keenan Crane](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
@@ -118,9 +120,13 @@
 
   - #### :film_projector: [Interactive Computer Graphics Course Slides by Ron Fedkiw](https://web.stanford.edu/class/cs248/lectures.html)
 
+  - #### :tv: [Computer Graphics Course by Ren Ng and Angjoo Kanazawa](https://cs184.eecs.berkeley.edu/sp21)
+
   - #### :tv: [Introduction to Computer Graphics Lectures by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 
   - #### :film_projector: [Advanced Computer Graphics Lecture Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php)
+
+  - #### :film_projector: [Computer Graphics Lecture Slides by Wojciech Matusik and Frédo Durand](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)
 
   - #### :film_projector: [Introduction to Computer Graphics and Imaging Lecture Slides by Ron Fedkiw](https://web.stanford.edu/class/cs148/lectures.html)
 
