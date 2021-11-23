@@ -337,6 +337,8 @@
 
   - #### :tv: [ARKit Tutorials by Brian Advent](https://www.youtube.com/playlist?list=PLY1P2_piiWEZFWsH507mBa5WGR7t6P4c_)
 
+  - #### :man_technologist: [AR.js Examples by Lee Stemkoski](https://stemkoski.github.io/AR-Examples/)
+
   - #### :man_technologist: [ARCore Course by Augmented Startups](https://github.com/augmentedstartups/ARCore)
 
   - #### :man_technologist: [Vuforia AR Course by Augmented Startups](https://github.com/augmentedstartups/Vuforia_AR_Course)
@@ -359,7 +361,11 @@
 
 - ### :dark_sunglasses: Extended Reality
 
+  - #### :man_technologist: [WebXR Samples](https://immersive-web.github.io/webxr-samples/)
+
   - #### :tv: [Reality Lab Lectures](https://www.youtube.com/playlist?list=PL8bmgwX9eBPGUZXoy3SVplvJMiHkzP8T_)
+
+  - #### :man_technologist: [WebXR Hand Tracking Examples Marlon Lückert](https://webxr-handtracking.vercel.app/)
 
   - #### :film_projector: [XR Course Lectures Slides by Mark Billinghurst](https://www.slideshare.net/marknb00/comp-4010-2010-lecture1introduction-to-xr)
 
