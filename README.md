@@ -207,9 +207,15 @@
 
   - #### :tv: [Ray Tracing in Games with NVIDIA RTX](https://www.youtube.com/playlist?list=PL4FII4B-zM0eIbZNC11Dgub7HRraRDDDu)
 
+  - #### :man_technologist: [NVIDIA OptiX Ray Tracing SDK Samples](https://github.com/NVIDIA/OptiX_Apps)
+
   - #### :man_technologist: [Raymarching Workshop by Electric Square](https://github.com/electricsquare/raymarching-workshop/blob/master/readme.md)
 
   - #### :book: [Ray Tracing Gems by Eric Haines and others](http://www.realtimerendering.com/raytracinggems/)
+
+  - #### :man_technologist: [NVIDIA OptiX Ray Tracing SDK Advanced Samples](https://github.com/nvpro-samples/optix_advanced_samples)
+
+  - #### :man_technologist: [NVIDIA OptiX 7 Ray Tracing SDK SIGGRAPH Course](https://github.com/ingowald/optix7course)
 
   - #### :book: [Ray Tracing in One Weekend Book Series by Peter Shirley](https://raytracing.github.io/)
 
