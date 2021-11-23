@@ -37,6 +37,7 @@
   - [:framed_picture: Rendering](#framed_picture-rendering)
   - [:rainbow: Shaders](#rainbow-shaders)
   - [:volcano: Vulkan](#volcano-vulkan)
+  - [:ocean: WebGL](#ocean-webgl)
   - [:fire: WebGPU](#fire-webgpu)
 
 - [:sunglasses: Digital Reality](#sunglasses-digital-reality)
@@ -260,6 +261,8 @@
 
   - #### :thought_balloon: [Compute Shader Glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
 
+  - #### :tv: [Shader Tutorials by Ned Makes Games](https://www.youtube.com/c/NedMakesGames/playlists)
+
   - #### :man_technologist: [Unity Shader Tutorials by Catlike Coding](https://catlikecoding.com/unity/tutorials/)
 
   - #### :man_technologist: [Fragment Shaders Workshop by Hugh Kennedy](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
@@ -310,6 +313,12 @@
 
   - #### :thought_balloon: [Writing an Efficient Vulkan Renderer Blogpost by Arseny Kapoulkine](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 
+- ### :ocean: WebGL
+
+  - #### :man_technologist: [WebGL Workshop by Luigi De Rosa](https://github.com/luruke/human-gpu)
+
+  - #### :man_technologist: [WebGL and Three.js Tutorials by GFX Fundamentals](https://gfxfundamentals.org/)
+
 - ### :fire: WebGPU
 
   - #### :man_technologist: [WebGPU Training](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
@@ -319,8 +328,6 @@
   - #### :man_technologist: [WebGPU API Docs](https://gpuweb.github.io/gpuweb/)
 
   - #### :man_technologist: [WebGPU Best Practices](https://github.com/toji/webgpu-best-practices/blob/main/img-textures.md)
-
-  - #### :man_technologist: [WebGL and Three.js Tutorials by GFX Fundamentals](https://gfxfundamentals.org/)
 
   - #### :man_technologist: [Learn Wgpu: Rust's implementation of the WebGPU API](https://sotrh.github.io/learn-wgpu/)
 
