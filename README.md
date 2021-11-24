@@ -413,6 +413,8 @@
 
   - #### :man_teacher: [Computer Vision Princeton Courses](http://3dvision.princeton.edu/courses.html)
 
+  - #### :tv: [British Machine Vision Association Talks](https://www.youtube.com/c/BMVABritishMachineVisionAssociation/playlists)
+
   - #### :film_projector: [3D Computer Vision Course Slides by Guido Gerig](http://www.sci.utah.edu/~gerig/CS6320-S2015/CS6320_3D_Computer_Vision.html)
 
   - #### :tv: [First Principles of Computer Vision Videos by Shree Nayar](https://fpcv.cs.columbia.edu/)
