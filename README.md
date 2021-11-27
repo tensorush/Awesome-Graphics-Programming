@@ -17,7 +17,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome learning resources on 3D programming in Computer Graphics, Extended Reality (AR/VR/MR) and Machine Learning (CV, GDL) in the form of tutorials, videos and books.
+## :man_teacher: Collection of the most awesome learning resources on 3D programming in Computer Graphics, Digital Realities (AR/VR/XR) and Machine Learning (CV, GDL) in the form of tutorials, videos and books.
 
 > ### Contributions are very welcome! :hugs:
 
@@ -114,6 +114,8 @@
   - #### :film_projector: [Computer Graphics Courses Slides by Mridul Aanjaneya](https://orionquest.github.io/CS523/)
 
   - #### :globe_with_meridians: [Learn Computer Graphics From Scratch by Scratchapixel](https://www.scratchapixel.com/)
+
+  - #### :man_technologist: [Graduate Computer Graphics Course by Daniele Panozzo](https://github.com/danielepanozzo/cg)
 
   - #### :tv: [Introduction to Computer Graphics Lectures by Cem Yuksel](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
 
