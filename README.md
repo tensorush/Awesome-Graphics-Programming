@@ -109,6 +109,8 @@
 
   - #### :film_projector: [Computer Graphics Lecture Slides by Nancy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
 
+  - #### :film_projector: [Computer Graphics Courses Slides by Emmanuel Agu](http://web.cs.wpi.edu/~emmanuel/courses/old_courses.html)
+
   - #### :film_projector: [Computer Graphics Courses Slides by Daniel Cohen-Or](https://danielcohenor.com/courses/)
 
   - #### :film_projector: [Computer Graphics Courses Slides by Mridul Aanjaneya](https://orionquest.github.io/CS523/)
