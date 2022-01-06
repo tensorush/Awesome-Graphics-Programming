@@ -235,6 +235,8 @@
 
   - #### :man_technologist: [Rendering Course Slides by Wojciech Jarosz](https://cs87-dartmouth.github.io/Fall2021/index.html)
 
+  - #### :tv: [Eurographics Symposium on Rendering 2021](https://www.youtube.com/channel/UCEockLt4_cYgitGAnS3Mfow/videos)
+
   - #### :tv: [Rendering Course Slides by Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
   - #### :book: [Physically Based Rendering by Matt Pharr and others](https://www.pbr-book.org/)
@@ -354,6 +356,8 @@
   - #### :man_technologist: [Vuforia AR Course by Augmented Startups](https://github.com/augmentedstartups/Vuforia_AR_Course)
 
   - #### :tv: [Advanced Augmented Reality by Code Reality](https://www.youtube.com/playlist?list=PLfBoEJ1m-xhnGiZ5kVf6_KJkVAhqiW-d_)
+
+  - #### :man_teacher: [Getting started with Augmented Reality Course](https://www.coursera.org/learn/augmented-reality)
 
   - #### :tv: [Augmented Reality Tutorials by Matthew Hallberg](https://www.youtube.com/playlist?list=PLmE2ibStnoYrX3877o4fiXttbrI-VCW7h)
 
