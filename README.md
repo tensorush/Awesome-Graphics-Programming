@@ -259,6 +259,8 @@
 
   - #### :book: [Physically Based Rendering in Filament by Romain Guy and Mathias Agopian](https://google.github.io/filament/Filament.html)
 
+  - #### :film_projector: [Physically Based Rendering and Material Appearance Modelling by Jeppe Frisvad](http://courses.compute.dtu.dk/02941/)
+
   - #### :tv: [Advances in Monte Carlo Rendering: The Legacy of Jaroslav Křivánek SIGGRAPH 2020 Course](https://www.youtube.com/watch?v=0fzJCrLKJg0)
 
   - #### :film_projector: [Monte Carlo Methods for Physically-based Volume Rendering Course Slides by Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/publications/novak18monte-sig.html)
