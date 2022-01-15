@@ -255,6 +255,8 @@
 
   - #### :film_projector: [Physically Based Shading in Theory and Practice SIGGRAPH Course](https://blog.selfshadow.com/publications/)
 
+  - #### :film_projector: [Filtering Approaches for Real-Time Anti-Aliasing SIGGRAPH Course](http://iryoku.com/aacourse/)
+
   - #### :thought_balloon: [Probability Theory for Physically Based Rendering Blogpost by Jacco Bikker](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering/)
 
   - #### :book: [Physically Based Rendering in Filament by Romain Guy and Mathias Agopian](https://google.github.io/filament/Filament.html)
