@@ -307,6 +307,8 @@
 
   - #### :man_technologist: [Vulkan API Examples](https://github.com/SaschaWillems/Vulkan)
 
+  - #### :man_technologist: [Vulkan Path Tracing Tutorial](https://github.com/nvpro-samples/vk_mini_path_tracer)
+
   - #### :man_technologist: [Vulkan Tutorials by Dustin Land](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
 
   - #### :man_technologist: [Simple Vulkan Raytracing Tutorials](https://github.com/iOrange/rtxON)
@@ -422,6 +424,8 @@
 ## :robot: Machine Learning
 
 - ### :eye: Computer Vision
+
+  - #### :man_teacher: [Computer Vision TUM Courses](https://vision.in.tum.de/teaching/online)
 
   - #### :man_teacher: [Computer Vision Princeton Courses](http://3dvision.princeton.edu/courses.html)
 
