@@ -247,6 +247,8 @@
 
   - #### :film_projector: [Rendering Algorithms Course Slides by Wojciech Jarosz](https://canvas.dartmouth.edu/courses/35073/files/folder/Slides)
 
+  - #### :tv: [Physics-based differentiable rendering CVPR 2021 Tutorial](https://www.youtube.com/watch?v=Tou8or1ed6E)
+
   - #### :film_projector: [Crash Course in BRDF Implementation by Jakub Boksansky](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 
   - #### :film_projector: [Physics-based Rendering Course Slides by Ioannis Gkioulekas](http://graphics.cs.cmu.edu/courses/15-468/)
