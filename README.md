@@ -279,6 +279,8 @@
 
   - #### :thought_balloon: [Compute Shader Glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
 
+  - #### :man_technologist: [Graphics Workshop by Eric Zhang](https://github.com/ekzhang/graphics-workshop)
+
   - #### :tv: [Shader Tutorials by Ned Makes Games](https://www.youtube.com/c/NedMakesGames/playlists)
 
   - #### :man_technologist: [Unity Shader Tutorials by Catlike Coding](https://catlikecoding.com/unity/tutorials/)
