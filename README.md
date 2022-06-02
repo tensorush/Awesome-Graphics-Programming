@@ -13,11 +13,11 @@
     <img src="https://bleuje.github.io/gifset/2021/gifs/2021_15_splittingtriangles.gif">
 </p>
 
-<h4 align="center"> 
+<h4 align="center">
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome learning resources on 3D programming in Computer Graphics, Digital Realities (AR/VR/XR) and Machine Learning (CV, GDL) in the form of tutorials, videos and books.
+## :man_teacher: Collection of the most awesome learning resources on 3D programming in the form of tutorials, videos and books.
 
 > ### Contributions are very welcome! :hugs:
 
@@ -40,7 +40,7 @@
   - [:ocean: WebGL](#ocean-webgl)
   - [:fire: WebGPU](#fire-webgpu)
 
-- [:sunglasses: Digital Reality](#sunglasses-digital-reality)
+- [:sunglasses: Digital Realities](#sunglasses-digital-realities)
 
   - [:eyeglasses: Augmented Reality](#eyeglasses-augmented-reality)
   - [:dark_sunglasses: Extended Reality](#dark_sunglasses-extended-reality)
@@ -75,7 +75,7 @@
 
   - #### :man_technologist: [Introduction to DirectX Raytracing (DXR) Course](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing)
 
-  - #### :man_technologist: [DirectX 12 Raytracing Tutorial Blogpost Series by Martin-Karl Lefrançois and Pascal Gautron](https://developer.nvidia.com/rtx/raytracing/dxr/dx12-raytracing-tutorial-part-1)
+  - #### :man_technologist: [DirectX 12 Raytracing Tutorial Blog post Series by Martin-Karl Lefrançois and Pascal Gautron](https://developer.nvidia.com/rtx/raytracing/dxr/dx12-raytracing-tutorial-part-1)
 
 - ### :joystick: Game Engine Programming
 
@@ -163,7 +163,7 @@
 
   - #### :man_technologist: [Graphics Programming Virtual Meetup Sessions](https://www.youtube.com/c/GraphicsProgrammingVirtualMeetup/playlists?view=1&sort=dd&shelf_id=0)
 
-  - #### :thought_balloon: [Graphics Programming Blogposts by Inigo Quilez](https://iquilezles.org/www/index.htm)
+  - #### :thought_balloon: [Graphics Programming Blog posts by Inigo Quilez](https://iquilezles.org/www/index.htm)
 
   - #### :book: [Graphics Programming Black Book by Michael Abrash](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
 
@@ -197,7 +197,7 @@
 
   - #### :card_file_box: [SIGGRAPH Course Database by Stephen Hill](https://blog.selfshadow.com/archive/)
 
-  - #### :thought_balloon: [Miscellaneous Graphics Blogposts by Alain Galvan](https://alain.xyz/blog)
+  - #### :thought_balloon: [Miscellaneous Graphics Blog posts by Alain Galvan](https://alain.xyz/blog)
 
   - #### :film_projector: [Graphics Studies Compilation by Adrian Courrèges](http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 
@@ -259,7 +259,7 @@
 
   - #### :film_projector: [Filtering Approaches for Real-Time Anti-Aliasing SIGGRAPH Course](http://iryoku.com/aacourse/)
 
-  - #### :thought_balloon: [Probability Theory for Physically Based Rendering Blogpost by Jacco Bikker](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering/)
+  - #### :thought_balloon: [Probability Theory for Physically Based Rendering Blog post by Jacco Bikker](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering/)
 
   - #### :book: [Physically Based Rendering in Filament by Romain Guy and Mathias Agopian](https://google.github.io/filament/Filament.html)
 
@@ -295,11 +295,11 @@
 
   - #### :book: [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
 
-  - #### :thought_balloon: [How to Read Shader Assembly Blogpost by Kostas Anagnostou](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
+  - #### :thought_balloon: [How to Read Shader Assembly Blog post by Kostas Anagnostou](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 
   - #### :tv: [Compute Shaders: Optimize Your Engine Using Compute by Lou Kramer](https://www.youtube.com/watch?v=0DLOJPSxJEg)
 
-  - #### :thought_balloon: [Beginner's Guide to Coding Graphics Shaders Blogpost Series by Omar Shehata](https://gamedevelopment.tutsplus.com/series/a-beginners-guide-to-coding-graphics-shaders--cms-834)
+  - #### :thought_balloon: [Beginner's Guide to Coding Graphics Shaders Blog post Series by Omar Shehata](https://gamedevelopment.tutsplus.com/series/a-beginners-guide-to-coding-graphics-shaders--cms-834)
 
 - ### :volcano: Vulkan
 
@@ -333,7 +333,7 @@
 
   - #### :tv: [Vulkan Essentials Lectures by Johannes Unterguggenberger](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)
 
-  - #### :thought_balloon: [Writing an Efficient Vulkan Renderer Blogpost by Arseny Kapoulkine](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
+  - #### :thought_balloon: [Writing an Efficient Vulkan Renderer Blog post by Arseny Kapoulkine](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 
 - ### :ocean: WebGL
 
@@ -353,7 +353,7 @@
 
   - #### :man_technologist: [Learn Wgpu: Rust's implementation of the WebGPU API](https://sotrh.github.io/learn-wgpu/)
 
-## :sunglasses: Digital Reality
+## :sunglasses: Digital Realities
 
 - ### :eyeglasses: Augmented Reality
 
@@ -375,7 +375,7 @@
 
   - #### :tv: [Foundations of Augmented Reality by Code Reality](https://www.youtube.com/playlist?list=PLfBoEJ1m-xhluRHfPgxgVnsiYH33lLExl)
 
-  - #### :thought_balloon: [ARKit by Example Blogpost Series by Mark Dawson](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
+  - #### :thought_balloon: [ARKit by Example Blog post Series by Mark Dawson](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
 
   - #### :tv: [Augmented Reality Education Global Webinar by Code Reality](https://www.youtube.com/playlist?list=PLfBoEJ1m-xhlDpJSX9p-qHpwKmIvLEwGu)
 
@@ -423,7 +423,7 @@
 
   - #### :tv: [How to Make a VR Game in Unity: Beginner's Guide by Justin Barnett](https://www.youtube.com/playlist?list=PLwz27aQG0IIJ8cPM-npX2AJ6Nb-MruYP3)
 
-  - #### :thought_balloon: [Advanced VR Mechanics With Unity Blogpost by Eric Van de Kerckhove](https://www.raywenderlich.com/625-advanced-vr-mechanics-with-unity-and-the-htc-vive-part-1)
+  - #### :thought_balloon: [Advanced VR Mechanics With Unity Blog post by Eric Van de Kerckhove](https://www.raywenderlich.com/625-advanced-vr-mechanics-with-unity-and-the-htc-vive-part-1)
 
 ## :robot: Machine Learning
 
