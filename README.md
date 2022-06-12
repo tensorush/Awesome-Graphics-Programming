@@ -1,8 +1,8 @@
-# :ice_cube: **Awesome 3D Programming** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# :ice_cube: **Awesome Graphics Programming** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Awesome-3D-Programming/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Awesome-Graphics-Programming/pulls)
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -17,7 +17,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome learning resources on 3D programming in the form of tutorials, videos and books.
+## :man_teacher: Collection of the most awesome learning resources on graphics programming in the form of tutorials, videos and books.
 
 > ### Contributions are very welcome! :hugs:
 
@@ -81,6 +81,8 @@
 
   - #### :tv: [Game Engine Programming Series by The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
 
+  - #### :film_projector: [2D Game Engines Course Slides by James Tompkin](http://cs.brown.edu/courses/csci1971/)
+
   - #### :tv: [Game Engine Programming Series by Arash Khatami](https://www.youtube.com/playlist?list=PLU2nPsAdxKWQYxkmQ3TdbLsyc1l2j25XM)
 
   - #### :man_technologist: [3D Game Engine Programming Tutorials by Jeremiah van Oosten](https://www.3dgep.com/)
@@ -103,6 +105,8 @@
 
   - #### :man_technologist: [Computer Graphics Course by Alec Jacobson](https://github.com/alecjacobson/computer-graphics-csc317)
 
+  - #### :film_projector: [Computer Graphics Course Slides by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/02-graphics/)
+
   - #### :tv: [Computer Graphics Lectures by Keenan Crane](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 
   - #### :film_projector: [Computer Graphics Lecture Slides by Karan Singh](https://github.com/karansher/317-lectures)
@@ -122,6 +126,12 @@
   - #### :tv: [Introduction to Computer Graphics Lectures by Cem Yuksel](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
 
   - #### :film_projector: [Realistic Image Synthesis Course Slides by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
+
+  - #### :film_projector: [Interactive Computer Graphics Course Slides by Steve Marschner](https://www.cs.cornell.edu/courses/cs5625/2022sp/)
+
+  - #### :film_projector: [Computer Graphics Course Slides by Daniel Ritchie](http://cs.brown.edu/courses/csci1230/)
+
+  - #### :film_projector: [Introduction to Computer Graphics Course Slides by Brian Curless](http://courses.cs.washington.edu/courses/cse557/17au/)
 
   - #### :film_projector: [Interactive Computer Graphics Course Slides by Ron Fedkiw](https://web.stanford.edu/class/cs248/lectures.html)
 
@@ -453,13 +463,13 @@
 
 <!-- MARKDOWN LINKS -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/tensorush/Awesome-3D-Programming.svg?style=for-the-badge
-[contributors-url]: https://github.com/tensorush/Awesome-3D-Programming/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/tensorush/Awesome-3D-Programming.svg?style=for-the-badge
-[issues-url]: https://github.com/tensorush/Awesome-3D-Programming/issues
-[stars-shield]: https://img.shields.io/github/stars/tensorush/Awesome-3D-Programming.svg?style=for-the-badge
-[stars-url]: https://github.com/tensorush/Awesome-3D-Programming/stargazers
-[forks-shield]: https://img.shields.io/github/forks/tensorush/Awesome-3D-Programming.svg?style=for-the-badge
-[forks-url]: https://github.com/tensorush/Awesome-3D-Programming/network/members
-[license-shield]: https://img.shields.io/github/license/tensorush/Awesome-3D-Programming.svg?style=for-the-badge
-[license-url]: https://github.com/tensorush/Awesome-3D-Programming/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/tensorush/Awesome-Graphics-Programming.svg?style=for-the-badge
+[contributors-url]: https://github.com/tensorush/Awesome-Graphics-Programming/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/tensorush/Awesome-Graphics-Programming.svg?style=for-the-badge
+[issues-url]: https://github.com/tensorush/Awesome-Graphics-Programming/issues
+[stars-shield]: https://img.shields.io/github/stars/tensorush/Awesome-Graphics-Programming.svg?style=for-the-badge
+[stars-url]: https://github.com/tensorush/Awesome-Graphics-Programming/stargazers
+[forks-shield]: https://img.shields.io/github/forks/tensorush/Awesome-Graphics-Programming.svg?style=for-the-badge
+[forks-url]: https://github.com/tensorush/Awesome-Graphics-Programming/network/members
+[license-shield]: https://img.shields.io/github/license/tensorush/Awesome-Graphics-Programming.svg?style=for-the-badge
+[license-url]: https://github.com/tensorush/Awesome-Graphics-Programming/blob/master/LICENSE.md
