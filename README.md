@@ -105,13 +105,15 @@
 
   - #### :man_technologist: [Computer Graphics Course by Alec Jacobson](https://github.com/alecjacobson/computer-graphics-csc317)
 
-  - #### :film_projector: [Computer Graphics Course Slides by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/02-graphics/)
-
   - #### :tv: [Computer Graphics Lectures by Keenan Crane](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 
   - #### :film_projector: [Computer Graphics Lecture Slides by Karan Singh](https://github.com/karansher/317-lectures)
 
+  - #### :film_projector: [Computer Graphics Course Slides by Daniel Ritchie](http://cs.brown.edu/courses/csci1230/)
+
   - #### :film_projector: [Computer Graphics Lecture Slides by Nancy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
+
+  - #### :film_projector: [Computer Graphics Course Slides by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/02-graphics/)
 
   - #### :film_projector: [Computer Graphics Courses Slides by Emmanuel Agu](http://web.cs.wpi.edu/~emmanuel/courses/old_courses.html)
 
@@ -127,17 +129,15 @@
 
   - #### :film_projector: [Realistic Image Synthesis Course Slides by Steve Marschner](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml)
 
-  - #### :film_projector: [Interactive Computer Graphics Course Slides by Steve Marschner](https://www.cs.cornell.edu/courses/cs5625/2022sp/)
-
-  - #### :film_projector: [Computer Graphics Course Slides by Daniel Ritchie](http://cs.brown.edu/courses/csci1230/)
-
-  - #### :film_projector: [Introduction to Computer Graphics Course Slides by Brian Curless](http://courses.cs.washington.edu/courses/cse557/17au/)
-
   - #### :film_projector: [Interactive Computer Graphics Course Slides by Ron Fedkiw](https://web.stanford.edu/class/cs248/lectures.html)
 
   - #### :tv: [Computer Graphics Course by Ren Ng and Angjoo Kanazawa](https://cs184.eecs.berkeley.edu/sp21)
 
   - #### :tv: [Introduction to Computer Graphics Lectures by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
+
+  - #### :film_projector: [Interactive Computer Graphics Course Slides by Steve Marschner](https://www.cs.cornell.edu/courses/cs5625/2022sp/)
+
+  - #### :film_projector: [Introduction to Computer Graphics Course Slides by Brian Curless](http://courses.cs.washington.edu/courses/cse557/17au/)
 
   - #### :film_projector: [Advanced Computer Graphics Lecture Slides by Thomas Funkhouser](https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php)
 
@@ -149,9 +149,9 @@
 
 - ### :rabbit2: Geometry Processing
 
-  - #### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
-
   - #### :tv: [Videos by Zhongshi Jiang](https://www.youtube.com/playlist?list=PL6Bl-NTBamMIf9jEmPNYgDyUs0zDTdZe_)
+
+  - #### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
 
   - #### :film_projector: [Slides by various lecturers](https://mirelab6.wixsite.com/dgpslides)
 
@@ -391,17 +391,15 @@
 
   - #### :man_teacher: [Introduction to Augmented Reality and ARCore Coursera Course](https://www.coursera.org/learn/ar)
 
-  - #### :man_technologist: [ARHeadsetKit: Google Cardboard AR Development Kit by Philip Turner](https://github.com/philipturner/ARHeadsetKit)
-
 - ### :dark_sunglasses: Extended Reality
 
   - #### :man_technologist: [WebXR Samples](https://immersive-web.github.io/webxr-samples/)
 
   - #### :tv: [Reality Lab Lectures](https://www.youtube.com/playlist?list=PL8bmgwX9eBPGUZXoy3SVplvJMiHkzP8T_)
 
-  - #### :man_technologist: [WebXR Hand Tracking Examples Marlon Lückert](https://webxr-handtracking.vercel.app/)
-
   - #### :film_projector: [XR Course Lectures Slides by Mark Billinghurst](https://www.slideshare.net/marknb00/comp-4010-2010-lecture1introduction-to-xr)
+
+  - #### :man_technologist: [WebXR Hand Tracking Examples Marlon Lückert](https://webxr-handtracking.vercel.app/)
 
   - #### :tv: [Unity XR Interaction Toolkit Tutorials by Dilmer Valecillos](https://www.youtube.com/playlist?list=PLQMQNmwN3Fvx2d7uNxMkVOs1aUV-vxrlf)
 
