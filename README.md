@@ -79,6 +79,10 @@
 
 - ### :joystick: Game Engine Programming
 
+  - #### :thought_balloon: [Game Physics Tutorial Blog Posts by Allen Chou](http://allenchou.net/game-physics-series/)
+
+  - #### :thought_balloon: [Game Physics Tutorial Blog Posts by Nilson Souto](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
+
   - #### :tv: [Game Engine Programming Series by The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
 
   - #### :film_projector: [2D Game Engines Course Slides by James Tompkin](http://cs.brown.edu/courses/csci1971/)
