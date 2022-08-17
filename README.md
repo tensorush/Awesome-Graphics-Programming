@@ -89,7 +89,11 @@
 
   - #### :tv: [Game Engine Programming Series by Arash Khatami](https://www.youtube.com/playlist?list=PLU2nPsAdxKWQYxkmQ3TdbLsyc1l2j25XM)
 
+  - #### :man_teacher: [Introduction to Computer Game Architecture by Walker White](https://www.cs.cornell.edu/courses/cs3152/2022sp/)
+
   - #### :man_technologist: [3D Game Engine Programming Tutorials by Jeremiah van Oosten](https://www.3dgep.com/)
+
+  - #### :man_teacher: [Advanced Topics in Computer Game Architecture by Walker White](https://www.cs.cornell.edu/courses/cs5152/2022sp/)
 
   - #### :man_technologist: [Handmade Hero Game Engine Programming Series by Casey Muratori](https://handmadehero.org/)
 
