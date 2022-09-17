@@ -1,13 +1,4 @@
-# :sunglasses: :ice_cube: **Awesome Graphics Programming** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Awesome-Graphics-Programming/pulls)
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![License][license-shield]][license-url]
+# :sunglasses: :ice_cube: **Awesome Graphics Programming**
 
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2021/gifs/2021_15_splittingtriangles.gif">
@@ -17,7 +8,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_student: Collection of the most awesome learning resources on graphics programming in the form of tutorials, videos and books.
+## :man_student: Collection of the most awesome learning resources on graphics programming in the form of videos, tutorials and books.
 
 > ### Contributions are very welcome! :hugs:
 
@@ -183,7 +174,7 @@
 
   - #### :thought_balloon: [Graphics Programming Blog posts by Inigo Quilez](https://iquilezles.org/www/index.htm)
 
-  - #### :book: [Graphics Programming Black Book by Michael Abrash](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
+  - #### :book: [Graphics Programming Black Book by Michael Abrash](https://github.com/jagregory/abrash-black-book)
 
   - #### :card_file_box: [Graphics Programming Article Database by Jendrik Illner](https://www.jendrikillner.com/article_database/)
 
@@ -466,16 +457,3 @@
   - #### :tv: [Machine Learning with Graphs Lectures by Jure Leskovec](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
   - #### :man_teacher: [Geometric Deep Learing AMMI 2021 Course Slides by Michael Bronstein and others](https://geometricdeeplearning.com/lectures/)
-
-<!-- MARKDOWN LINKS -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/tensorush/Awesome-Graphics-Programming.svg?style=for-the-badge
-[contributors-url]: https://github.com/tensorush/Awesome-Graphics-Programming/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/tensorush/Awesome-Graphics-Programming.svg?style=for-the-badge
-[issues-url]: https://github.com/tensorush/Awesome-Graphics-Programming/issues
-[stars-shield]: https://img.shields.io/github/stars/tensorush/Awesome-Graphics-Programming.svg?style=for-the-badge
-[stars-url]: https://github.com/tensorush/Awesome-Graphics-Programming/stargazers
-[forks-shield]: https://img.shields.io/github/forks/tensorush/Awesome-Graphics-Programming.svg?style=for-the-badge
-[forks-url]: https://github.com/tensorush/Awesome-Graphics-Programming/network/members
-[license-shield]: https://img.shields.io/github/license/tensorush/Awesome-Graphics-Programming.svg?style=for-the-badge
-[license-url]: https://github.com/tensorush/Awesome-Graphics-Programming/blob/master/LICENSE.md
