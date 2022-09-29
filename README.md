@@ -10,8 +10,6 @@
 
 ## :man_student: Collection of the most awesome learning resources on graphics programming in the form of videos, tutorials and books.
 
-> ### Contributions are very welcome! :hugs:
-
 ## Table of Contents
 
 - [:dragon: Computer Graphics](#dragon-computer-graphics)
