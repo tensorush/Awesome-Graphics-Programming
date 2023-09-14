@@ -12,37 +12,22 @@
 
 ## Table of Contents
 
-- [:dragon: Computer Graphics](#dragon-computer-graphics)
+- [:running_man: Animation](#running_man-animation)
+- [:heavy_multiplication_x: DirectX](#heavy_multiplication_x-directx)
+- [:joystick: Game Engine Programming](#joystick-game-engine-programming)
+- [:scroll: General Theory](#scroll-general-theory)
+- [:rabbit2: Geometry Processing](#rabbit2-geometry-processing)
+- [:crystal_ball: Graphics Programming](#crystal_ball-graphics-programming)
+- [:cyclone: OpenGL](#cyclone-opengl)
+- [:slot_machine: Random Topics](#slot_machine-random-topics)
+- [:high_brightness: Ray Tracing](#high_brightness-ray-tracing)
+- [:framed_picture: Rendering](#framed_picture-rendering)
+- [:rainbow: Shaders](#rainbow-shaders)
+- [:volcano: Vulkan](#volcano-vulkan)
+- [:ocean: WebGL](#ocean-webgl)
+- [:fire: WebGPU](#fire-webgpu)
 
-  - [:running_man: Animation](#running_man-animation)
-  - [:heavy_multiplication_x: DirectX](#heavy_multiplication_x-directx)
-  - [:joystick: Game Engine Programming](#joystick-game-engine-programming)
-  - [:scroll: General Theory](#scroll-general-theory)
-  - [:rabbit2: Geometry Processing](#rabbit2-geometry-processing)
-  - [:crystal_ball: Graphics Programming](#crystal_ball-graphics-programming)
-  - [:cyclone: OpenGL](#cyclone-opengl)
-  - [:slot_machine: Random Topics](#slot_machine-random-topics)
-  - [:high_brightness: Ray Tracing](#high_brightness-ray-tracing)
-  - [:framed_picture: Rendering](#framed_picture-rendering)
-  - [:rainbow: Shaders](#rainbow-shaders)
-  - [:volcano: Vulkan](#volcano-vulkan)
-  - [:ocean: WebGL](#ocean-webgl)
-  - [:fire: WebGPU](#fire-webgpu)
-
-- [:sunglasses: Digital Realities](#sunglasses-digital-realities)
-
-  - [:eyeglasses: Augmented Reality](#eyeglasses-augmented-reality)
-  - [:dark_sunglasses: Extended Reality](#dark_sunglasses-extended-reality)
-  - [:goggles: Virtual Reality](#goggles-virtual-reality)
-
-- [:robot: Machine Learning](robot-machine-learning)
-
-  - [:eye: Computer Vision](#eye-computer-vision)
-  - [:brain: Geometric Deep Learning](#brain-geometric-deep-learning)
-
-## :dragon: Computer Graphics
-
-- ### :running_man: Animation
+### :running_man: Animation
 
   - #### :tv: [Animation Programming Basics](https://www.youtube.com/watch?v=Jkv0pbp0ckQ)
 
@@ -52,7 +37,7 @@
 
   - #### :man_technologist: [Physics-based Animation Course by David Levin](https://github.com/dilevin/CSC417-physics-based-animation)
 
-- ### :heavy_multiplication_x: DirectX
+### :heavy_multiplication_x: DirectX
 
   - #### :man_technologist: [DirectX Graphics Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
 
@@ -66,7 +51,7 @@
 
   - #### :man_technologist: [DirectX 12 Raytracing Tutorial Blog post Series by Martin-Karl Lefrançois and Pascal Gautron](https://developer.nvidia.com/rtx/raytracing/dxr/dx12-raytracing-tutorial-part-1)
 
-- ### :joystick: Game Engine Programming
+### :joystick: Game Engine Programming
 
   - #### :thought_balloon: [Game Physics Tutorial Blog Posts by Allen Chou](http://allenchou.net/game-physics-series/)
 
@@ -88,7 +73,7 @@
 
   - #### :book: [Foundations of Game Engine Development Book Series by Eric Lengyel](https://foundationsofgameenginedev.com/)
 
-- ### :scroll: General Theory
+### :scroll: General Theory
 
   - #### :man_technologist: [Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html)
 
@@ -144,7 +129,7 @@
 
   - #### :film_projector: [Simulation of 3D Deformable Solids SIGGRAPH Course Slides by Eftychios Sifakis and Jernej Barbič](http://www.femdefo.org/)
 
-- ### :rabbit2: Geometry Processing
+### :rabbit2: Geometry Processing
 
   - #### :tv: [Videos by Zhongshi Jiang](https://www.youtube.com/playlist?list=PL6Bl-NTBamMIf9jEmPNYgDyUs0zDTdZe_)
 
@@ -162,7 +147,7 @@
 
   - #### :film_projector: [Machine Learning Meets Geometry Course Slides by Hao Su and Meng Song](https://geoml.github.io/schedule.html)
 
-- ### :crystal_ball: Graphics Programming
+### :crystal_ball: Graphics Programming
 
   - #### :man_technologist: [Graphics Gems by Eric Haines](https://github.com/erich666/GraphicsGems)
 
@@ -178,7 +163,7 @@
 
   - #### :card_file_box: [Weekly Graphics Programming Article Summary by Jendrik Illner](https://www.jendrikillner.com/post/)
 
-- ### :cyclone: OpenGL
+### :cyclone: OpenGL
 
   - #### :man_technologist: [OpenGL Tutorials](http://www.opengl-tutorial.org/)
 
@@ -194,7 +179,7 @@
 
   - #### :book: [Learn OpenGL — Graphics Programming by Joey de Vries](https://learnopengl.com/)
 
-- ### :slot_machine: Random Topics
+### :slot_machine: Random Topics
 
   - #### :man_technologist: [NV Scene Seminars](https://www.youtube.com/c/NVScene/playlists)
 
@@ -210,7 +195,7 @@
 
   - #### :book: [GPU Gems by NVIDIA Developers Team and others](https://developer.nvidia.com/gpugems/gpugems/contributors)
 
-- ### :high_brightness: Ray Tracing
+### :high_brightness: Ray Tracing
 
   - #### :film_projector: [NVIDIA GDC 2019 Slides](https://onedrive.live.com/?authkey=%21AGqhV40kU5LIbTw&id=A6B78147D66DD722%2193553&cid=A6B78147D66DD722)
 
@@ -232,7 +217,7 @@
 
   - #### :tv: [Ray Tracing for Global Illumination Lectures by Nelson Max](https://www.youtube.com/playlist?list=PL_w_qWAQZtAYd0Kxmq17YXwqXkO1MVrqi)
 
-- ### :framed_picture: Rendering
+### :framed_picture: Rendering
 
   - #### :book: [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 
@@ -276,7 +261,7 @@
 
   - #### :film_projector: [Monte Carlo Methods for Physically-based Volume Rendering Course Slides by Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/publications/novak18monte-sig.html)
 
-- ### :rainbow: Shaders
+### :rainbow: Shaders
 
   - #### :man_technologist: [Shader School](https://github.com/stackgl/shader-school)
 
@@ -289,8 +274,6 @@
   - #### :man_technologist: [Graphics Workshop by Eric Zhang](https://github.com/ekzhang/graphics-workshop)
 
   - #### :tv: [Shader Tutorials by Ned Makes Games](https://www.youtube.com/c/NedMakesGames/playlists)
-
-  - #### :man_technologist: [Unity Shader Tutorials by Catlike Coding](https://catlikecoding.com/unity/tutorials/)
 
   - #### :man_technologist: [Fragment Shaders Workshop by Hugh Kennedy](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
 
@@ -308,7 +291,7 @@
 
   - #### :thought_balloon: [Beginner's Guide to Coding Graphics Shaders Blog post Series by Omar Shehata](https://gamedevelopment.tutsplus.com/series/a-beginners-guide-to-coding-graphics-shaders--cms-834)
 
-- ### :volcano: Vulkan
+### :volcano: Vulkan
 
   - #### :man_technologist: [Vulkan Guide](https://vkguide.dev/)
 
@@ -342,13 +325,13 @@
 
   - #### :thought_balloon: [Writing an Efficient Vulkan Renderer Blog post by Arseny Kapoulkine](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 
-- ### :ocean: WebGL
+### :ocean: WebGL
 
   - #### :man_technologist: [WebGL Workshop by Luigi De Rosa](https://github.com/luruke/human-gpu)
 
   - #### :man_technologist: [WebGL and Three.js Tutorials by GFX Fundamentals](https://gfxfundamentals.org/)
 
-- ### :fire: WebGPU
+### :fire: WebGPU
 
   - #### :man_technologist: [WebGPU Training](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
 
@@ -359,99 +342,3 @@
   - #### :man_technologist: [WebGPU Best Practices](https://github.com/toji/webgpu-best-practices/blob/main/img-textures.md)
 
   - #### :man_technologist: [Learn Wgpu: Rust's implementation of the WebGPU API](https://sotrh.github.io/learn-wgpu/)
-
-## :sunglasses: Digital Realities
-
-- ### :eyeglasses: Augmented Reality
-
-  - #### :tv: [ARKit Tutorials by Brian Advent](https://www.youtube.com/playlist?list=PLY1P2_piiWEZFWsH507mBa5WGR7t6P4c_)
-
-  - #### :man_technologist: [AR.js Examples by Lee Stemkoski](https://stemkoski.github.io/AR-Examples/)
-
-  - #### :man_technologist: [ARCore Course by Augmented Startups](https://github.com/augmentedstartups/ARCore)
-
-  - #### :man_technologist: [Vuforia AR Course by Augmented Startups](https://github.com/augmentedstartups/Vuforia_AR_Course)
-
-  - #### :tv: [Advanced Augmented Reality by Code Reality](https://www.youtube.com/playlist?list=PLfBoEJ1m-xhnGiZ5kVf6_KJkVAhqiW-d_)
-
-  - #### :man_teacher: [Getting started with Augmented Reality Course](https://www.coursera.org/learn/augmented-reality)
-
-  - #### :tv: [Augmented Reality Tutorials by Matthew Hallberg](https://www.youtube.com/playlist?list=PLmE2ibStnoYrX3877o4fiXttbrI-VCW7h)
-
-  - #### :tv: [Unity AR Foundation Tutorials by Dilmer Valecillos](https://www.youtube.com/playlist?list=PLQMQNmwN3FvzCWfvCvq2AYh1CFnTlv2Es)
-
-  - #### :tv: [Foundations of Augmented Reality by Code Reality](https://www.youtube.com/playlist?list=PLfBoEJ1m-xhluRHfPgxgVnsiYH33lLExl)
-
-  - #### :thought_balloon: [ARKit by Example Blog post Series by Mark Dawson](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
-
-  - #### :tv: [Augmented Reality Education Global Webinar by Code Reality](https://www.youtube.com/playlist?list=PLfBoEJ1m-xhlDpJSX9p-qHpwKmIvLEwGu)
-
-  - #### :man_teacher: [Introduction to Augmented Reality and ARCore Coursera Course](https://www.coursera.org/learn/ar)
-
-- ### :dark_sunglasses: Extended Reality
-
-  - #### :man_technologist: [WebXR Samples](https://immersive-web.github.io/webxr-samples/)
-
-  - #### :tv: [Reality Lab Lectures](https://www.youtube.com/playlist?list=PL8bmgwX9eBPGUZXoy3SVplvJMiHkzP8T_)
-
-  - #### :film_projector: [XR Course Lectures Slides by Mark Billinghurst](https://www.slideshare.net/marknb00/comp-4010-2010-lecture1introduction-to-xr)
-
-  - #### :man_technologist: [WebXR Hand Tracking Examples Marlon Lückert](https://webxr-handtracking.vercel.app/)
-
-  - #### :tv: [Unity XR Interaction Toolkit Tutorials by Dilmer Valecillos](https://www.youtube.com/playlist?list=PLQMQNmwN3Fvx2d7uNxMkVOs1aUV-vxrlf)
-
-  - #### :man_teacher: [Unity XR: How to Build AR and VR Apps Coursera Specialization](https://www.coursera.org/specializations/unity-xr)
-
-  - #### :man_teacher: [Visualization and Graphics in Mixed Reality Eurographics 2021 Tutorial](https://www.youtube.com/watch?v=RIr28JDuveA&list=PLBDGQkWJul-rOZTWl9tN0YtjWrAbAygyu&index=5)
-
-  - #### :man_teacher: [Extended Reality for Everybody Coursera Specialization by Michael Nebeling](https://www.coursera.org/specializations/extended-reality-for-everybody)
-
-- ### :goggles: Virtual Reality
-
-  - #### :globe_with_meridians: [VR Best Practice Tutorial](https://learn.unity.com/tutorial/vr-best-practice#)
-
-  - #### :tv: [Valem Unity VR Tutorials](https://www.youtube.com/c/ValemVR/playlists)
-
-  - #### :tv: [VR with Andrew Unity VR Tutorials](https://www.youtube.com/c/VRwithAndrew/playlists)
-
-  - #### :man_teacher: [Virtual Reality Coursera Specialization](https://www.coursera.org/specializations/virtual-reality)
-
-  - #### :man_teacher: [Virtual Reality Course by Steven LaValle](http://lavalle.pl/vr/)
-
-  - #### :man_teacher: [Creating Virtual Reality Apps edX Course](https://www.edx.org/course/creating-virtual-reality-vr-apps-2)
-
-  - #### :globe_with_meridians: [The UX of VR Curated List by Max Glenister](https://www.uxofvr.com/)
-
-  - #### :tv: [VR Development for Google Cardboard by Dinesh Punni](https://www.youtube.com/playlist?list=PL6VJLOFcTt7b9h_1ECoTW5y-NILe001kJ)
-
-  - #### :man_teacher: [Oculus & Unity: Design, Develop, and Deploy for VR Course](https://learn.unity.com/course/oculus-vr)
-
-  - #### :tv: [How to Make a VR Game in Unity: Beginner's Guide by Justin Barnett](https://www.youtube.com/playlist?list=PLwz27aQG0IIJ8cPM-npX2AJ6Nb-MruYP3)
-
-  - #### :thought_balloon: [Advanced VR Mechanics With Unity Blog post by Eric Van de Kerckhove](https://www.raywenderlich.com/625-advanced-vr-mechanics-with-unity-and-the-htc-vive-part-1)
-
-## :robot: Machine Learning
-
-- ### :eye: Computer Vision
-
-  - #### :man_teacher: [Computer Vision TUM Courses](https://vision.in.tum.de/teaching/online)
-
-  - #### :man_teacher: [Computer Vision Princeton Courses](http://3dvision.princeton.edu/courses.html)
-
-  - #### :tv: [British Machine Vision Association Talks](https://www.youtube.com/c/BMVABritishMachineVisionAssociation/playlists)
-
-  - #### :film_projector: [3D Computer Vision Course Slides by Guido Gerig](http://www.sci.utah.edu/~gerig/CS6320-S2015/CS6320_3D_Computer_Vision.html)
-
-  - #### :tv: [First Principles of Computer Vision Videos by Shree Nayar](https://fpcv.cs.columbia.edu/)
-
-  - #### :film_projector: [Visual Computing Systems Stanford Course Slides by Kayvon Fatahalian](https://graphics.stanford.edu/courses/cs348v-18-winter/)
-
-  - #### :film_projector: [Computer Vision: From 3D Reconstruction to Recognition Course Slides by Kenji Hata and Silvio Savarese](https://web.stanford.edu/class/cs231a/course_notes.html)
-
-- ### :brain: Geometric Deep Learning
-
-  - #### :tv: [3DGV Seminar](https://www.youtube.com/channel/UCpCQ8tjahrTPMsBiyPg2H7Q/videos)
-
-  - #### :tv: [Machine Learning with Graphs Lectures by Jure Leskovec](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
-
-  - #### :man_teacher: [Geometric Deep Learing AMMI 2021 Course Slides by Michael Bronstein and others](https://geometricdeeplearning.com/lectures/)
