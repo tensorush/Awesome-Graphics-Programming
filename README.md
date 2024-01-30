@@ -335,12 +335,18 @@
 
 ### :fire: WebGPU
 
-  - #### :man_technologist: [WebGPU Training](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
-
   - #### :man_technologist: [WebGPU Samples](https://austin-eng.com/webgpu-samples/)
 
   - #### :man_technologist: [WebGPU API Docs](https://gpuweb.github.io/gpuweb/)
 
-  - #### :man_technologist: [WebGPU Best Practices](https://github.com/toji/webgpu-best-practices/blob/main/img-textures.md)
+  - #### :film_projector: [WebGPU Training Slides](https://github.com/drawmindmap/webgpu-training/blob/master/WebGPU.pdf)
+
+  - #### :man_technologist: [WebGPU Rocks by Ralph Wiedemeier](https://webgpu.rocks/)
+
+  - #### :man_technologist: [WebGPU Best Practices by Brandon Jones](https://toji.dev/webgpu-best-practices/)
+
+  - #### :black_joker: [WGSL Type Categories Cheatsheet by Jim Blandy](https://raw.githubusercontent.com/jimblandy/webgpu-diagrams/main/WGSL-types.svg)
 
   - #### :man_technologist: [Learn Wgpu: Rust's implementation of the WebGPU API](https://sotrh.github.io/learn-wgpu/)
+
+  - #### :thought_balloon: [WebGPU: All of the Cores, None of the Canvas Blog Post by Surma](https://surma.dev/things/webgpu/)
