@@ -63,6 +63,8 @@
 
   - #### :tv: [Game Engine Programming Series by Arash Khatami](https://www.youtube.com/playlist?list=PLU2nPsAdxKWQYxkmQ3TdbLsyc1l2j25XM)
 
+  - #### :book: [Game Programming Patterns Book by Robert Nystrom](https://gameprogrammingpatterns.com/)
+
   - #### :thought_balloon: [Game Physics Tutorial Series Blog Posts by Allen Chou](http://allenchou.net/game-physics-series/)
 
   - #### :man_teacher: [Introduction to Computer Game Architecture by Walker White](https://www.cs.cornell.edu/courses/cs3152/2022sp/)
